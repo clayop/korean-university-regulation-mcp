@@ -21,7 +21,9 @@ export interface Article {
  */
 export function extractName(html: string): string | null {
   const $ = cheerio.load(html);
-  const name = $("div.lawname").first().text().trim().replace(/\s+/g, " ");
+  const name = ($("div.lawname").first().text().trim() ||
+    $("span.lawname").first().text().trim() ||
+    "").replace(/\s+/g, " ");
   return name || null;
 }
 
@@ -32,7 +34,9 @@ export function parseRegulation(html: string): RegulationContent {
   const $ = cheerio.load(html);
 
   const name =
-    $("div.lawname").first().text().trim().replace(/\s+/g, " ") || "Unknown";
+    ($("div.lawname").first().text().trim() ||
+     $("span.lawname").first().text().trim() ||
+     "Unknown").replace(/\s+/g, " ");
 
   const result: RegulationContent = { name, chapters: [], supplementary: [] };
   let curChapter: Chapter = { title: "총칙", articles: [] };
@@ -40,11 +44,31 @@ export function parseRegulation(html: string): RegulationContent {
   let inSupplementary = false;
 
   $(
-    "div.chapter, table caption, td, div.none, div.hang, div.ho, div.buTitle",
+    "div.chapter, span, table caption, td, div.none, div.hang, div.ho, div.buTitle, div.section",
   ).each((_, el) => {
     const $el = $(el);
     const tagName = (el as any).tagName as string;
     const classes = $el.attr("class") || "";
+
+    // span elements may contain article titles (제N조) in many universities
+    if (tagName === "span") {
+      const ownText = $el.clone().children().remove().end().text().trim().replace(/\s+/g, " ");
+      if (/^제\s*\d+\s*조/.test(ownText) && ownText.length < 50) {
+        if (curArticle) {
+          curChapter.articles.push(curArticle);
+        }
+        curArticle = {
+          title: ownText.replace(/\s*&nbsp;\s*/g, "").trim(),
+          content: [],
+        };
+      }
+      return;
+    }
+
+    // div.section for section headings (절) - skip
+    if (classes.includes("section")) {
+      return;
+    }
 
     if (classes.includes("chapter")) {
       if (curArticle) {

@@ -113,17 +113,26 @@ async function fetchRegulationHtml(
 
 function parseRegulation(html: string): RegulationContent {
   const $ = cheerio.load(html);
-  const name = $("div.lawname").first().text().trim().replace(/\s+/g, " ") || "Unknown";
+  const name = ($("div.lawname").first().text().trim() || $("span.lawname").first().text().trim() || "Unknown").replace(/\s+/g, " ");
   const result: RegulationContent = { name, chapters: [], supplementary: [] };
   let curChapter: Chapter = { title: "총칙", articles: [] };
   let curArticle: Article | null = null;
   let inSupplementary = false;
 
-  $("div.chapter, table caption, td, div.none, div.hang, div.ho, div.buTitle").each((_, el) => {
+  $("div.chapter, span, table caption, td, div.none, div.hang, div.ho, div.buTitle, div.section").each((_, el) => {
     const $el = $(el);
     const tagName = (el as any).tagName as string;
     const classes = $el.attr("class") || "";
 
+    if (tagName === "span") {
+      const ownText = $el.clone().children().remove().end().text().trim().replace(/\s+/g, " ");
+      if (/^제\s*\d+\s*조/.test(ownText) && ownText.length < 50) {
+        if (curArticle) curChapter.articles.push(curArticle);
+        curArticle = { title: ownText.replace(/\s*&nbsp;\s*/g, "").trim(), content: [] };
+      }
+      return;
+    }
+    if (classes.includes("section")) return;
     if (classes.includes("chapter")) {
       if (curArticle) { curChapter.articles.push(curArticle); curArticle = null; }
       if (curChapter.articles.length > 0 || curChapter.title) result.chapters.push(curChapter);

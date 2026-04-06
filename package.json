@@ -1,6 +1,6 @@
 {
   "name": "korean-university-regulation-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "MCP server for searching and querying Korean university regulations (한국 대학교 규정) - supports 14 universities",
   "type": "module",
   "bin": {
