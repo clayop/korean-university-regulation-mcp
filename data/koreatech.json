@@ -1,0 +1,3432 @@
+{
+  "lastUpdated": "2026-04-06T05:38:01.860Z",
+  "maxScannedId": 1000,
+  "totalRegulations": 393,
+  "regulations": [
+    {
+      "id": 906,
+      "name": "한국기술교육대학교 학칙",
+      "allVersions": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        857,
+        898,
+        906
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 905,
+      "name": "한국기술교육대학교 「다담역량인증제」 운영지침",
+      "allVersions": [
+        905
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 904,
+      "name": "한국기술교육대학교 공학교육인증 운영 지침",
+      "allVersions": [
+        904
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 903,
+      "name": "계약학과 운영에 관한 규칙",
+      "allVersions": [
+        117,
+        146,
+        147,
+        148,
+        813,
+        828,
+        903
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 902,
+      "name": "연구실 안전관리규칙",
+      "allVersions": [
+        612,
+        902
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 901,
+      "name": "직제규정 시행규칙",
+      "allVersions": [
+        454,
+        461,
+        462,
+        464,
+        468,
+        469,
+        470,
+        471,
+        472,
+        562,
+        795,
+        810,
+        821,
+        851,
+        858,
+        901
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 900,
+      "name": "고용직업능력개발센터 운영관리 규칙(규칙 제485호)",
+      "allVersions": [
+        900
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 899,
+      "name": "학사운영에 관한 규칙",
+      "allVersions": [
+        221,
+        222,
+        231,
+        232,
+        677,
+        822,
+        834,
+        899
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 897,
+      "name": "임시교원 인사관리규칙 [규칙 제480호]",
+      "allVersions": [
+        897
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 896,
+      "name": "생물안전관리규정",
+      "allVersions": [
+        896
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 895,
+      "name": "계약직직원 임용지침",
+      "allVersions": [
+        149,
+        768,
+        806,
+        895
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 894,
+      "name": "[규칙 제478호]",
+      "allVersions": [
+        894
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 893,
+      "name": "교원 성과급적 연봉제 운영규칙",
+      "allVersions": [
+        540,
+        541,
+        893
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 892,
+      "name": "한국기술교육대학교 첨단분야 혁신융합대학 사업단 운영규칙",
+      "allVersions": [
+        892
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 891,
+      "name": "산학협력단 연구비 및 연구간접경비 운영지침",
+      "allVersions": [
+        882,
+        883,
+        891
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 890,
+      "name": "안전보건관리규정(규정 제75호)",
+      "allVersions": [
+        610,
+        829,
+        890
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 889,
+      "name": "한국기술교육대학교 RISE사업단 운영규칙",
+      "allVersions": [
+        889
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 888,
+      "name": "소프트웨어중심대학사업단 운영 규칙",
+      "allVersions": [
+        888
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 887,
+      "name": "교육지원센터 운영규칙",
+      "allVersions": [
+        887
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 886,
+      "name": "교원 성과급적 연봉제 운영규칙(규칙 제460호)",
+      "allVersions": [
+        886
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 885,
+      "name": "기록물 관리 규칙",
+      "allVersions": [
+        885
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 884,
+      "name": "학술정보의 관리 및 서비스에 관한 규칙",
+      "allVersions": [
+        714,
+        784,
+        884
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 881,
+      "name": "한국기술교육대학교 산학협력단",
+      "allVersions": [
+        881
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 880,
+      "name": "한국기술교육대학교 산학협력단 연구비 및 연구간접경비 운영지침",
+      "allVersions": [
+        494,
+        495,
+        731,
+        879,
+        880
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 878,
+      "name": "기타법인 한국기술교육대학교 산학협력단 정관",
+      "allVersions": [
+        1,
+        2,
+        3,
+        4,
+        557,
+        876,
+        877,
+        878
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 875,
+      "name": "학생상벌에 관한 규칙",
+      "allVersions": [
+        691,
+        875
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 874,
+      "name": "복무규정",
+      "allVersions": [
+        157,
+        160,
+        167,
+        168,
+        874
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 873,
+      "name": "시간외 근무수당 지급 지침",
+      "allVersions": [
+        306,
+        307,
+        308,
+        309,
+        601,
+        873
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 872,
+      "name": "수당 등에 관한 규칙",
+      "allVersions": [
+        241,
+        242,
+        244,
+        245,
+        600,
+        803,
+        811,
+        846,
+        872
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 871,
+      "name": "공무직 직원 인사 및 보수에 관한 규칙",
+      "allVersions": [
+        568,
+        804,
+        845,
+        871
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 870,
+      "name": "보안업무처리규칙",
+      "allVersions": [
+        333,
+        627,
+        799,
+        870
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 869,
+      "name": "보수규정",
+      "allVersions": [
+        198,
+        210,
+        211,
+        212,
+        213,
+        216,
+        217,
+        599,
+        802,
+        869
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 868,
+      "name": "직원인사규정",
+      "allVersions": [
+        126,
+        128,
+        136,
+        137,
+        141,
+        142,
+        586,
+        836,
+        868
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 867,
+      "name": "생물안전관리규칙",
+      "allVersions": [
+        867
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 866,
+      "name": "한국기술교육대학교 교직원의 이해충돌 방지제도 운영지침",
+      "allVersions": [
+        751,
+        866
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 865,
+      "name": "파트조직 설치 및 운영 지침",
+      "allVersions": [
+        856,
+        865
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 864,
+      "name": "시설관리규칙",
+      "allVersions": [
+        376,
+        633,
+        864
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 862,
+      "name": "감 사 규 정",
+      "allVersions": [
+        173,
+        592,
+        862
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 861,
+      "name": "대학혁신사업단 운영 규칙",
+      "allVersions": [
+        523,
+        861
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 860,
+      "name": "고용직업능력개발센터 운영관리 규칙(규칙 제465호)",
+      "allVersions": [
+        860
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 859,
+      "name": "개인정보 보호규칙",
+      "allVersions": [
+        503,
+        615,
+        794,
+        859
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 855,
+      "name": "신교수법 강좌 운영 지침",
+      "allVersions": [
+        855
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 854,
+      "name": "장애학생지원에 관한 규칙",
+      "allVersions": [
+        854
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 853,
+      "name": "대학 홍보 운영에 관한 규칙",
+      "allVersions": [
+        625,
+        853
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 852,
+      "name": "대학발전계획 수립 및 운영에 관한 규칙",
+      "allVersions": [
+        720,
+        852
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 850,
+      "name": "직 제 규 정",
+      "allVersions": [
+        55,
+        56,
+        59,
+        74,
+        563,
+        820,
+        850
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 849,
+      "name": "직원인사규정시행규칙",
+      "allVersions": [
+        416,
+        417,
+        418,
+        422,
+        423,
+        424,
+        426,
+        849
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 848,
+      "name": "직원승진시험시행지침",
+      "allVersions": [
+        848
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 847,
+      "name": "직원 교육훈련에 관한 지침",
+      "allVersions": [
+        847
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 844,
+      "name": "정보보안 기본규칙",
+      "allVersions": [
+        639,
+        844
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 843,
+      "name": "여비지급규칙【규칙 제453호】",
+      "allVersions": [
+        843
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 842,
+      "name": "내규관리규칙(규칙 제452호)",
+      "allVersions": [
+        842
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 841,
+      "name": "한국기술교육대학교 대학원 학사운영규칙",
+      "allVersions": [
+        151,
+        152,
+        153,
+        155,
+        156,
+        661,
+        841
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 840,
+      "name": "대학원 학위수여규정",
+      "allVersions": [
+        279,
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        289,
+        292,
+        293,
+        294,
+        296,
+        660,
+        812,
+        840
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 839,
+      "name": "기술연구원 인사규정 시행규칙",
+      "allVersions": [
+        480,
+        574,
+        839
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 838,
+      "name": "【규정 제67호】",
+      "allVersions": [
+        838
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 837,
+      "name": "교원인사규정(규정 제84호)",
+      "allVersions": [
+        837
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 835,
+      "name": "연구관리규칙",
+      "allVersions": [
+        179,
+        669,
+        835
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 833,
+      "name": "법인카드 관리·운영 지침",
+      "allVersions": [
+        833
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 832,
+      "name": "제안서평가위원회 구성 및 운영지침",
+      "allVersions": [
+        832
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 831,
+      "name": "계약사무처리규칙",
+      "allVersions": [
+        831
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 830,
+      "name": "한국기술교육대학교 학칙 제29호",
+      "allVersions": [
+        830
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 827,
+      "name": "[규칙 제444호]",
+      "allVersions": [
+        827
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 826,
+      "name": "고용직업능력개발센터 운영관리 규칙(규칙 제442호)",
+      "allVersions": [
+        826
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 825,
+      "name": "공상처리규칙",
+      "allVersions": [
+        315,
+        682,
+        825
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 824,
+      "name": "한국기술교육대학교 학칙 제28호",
+      "allVersions": [
+        824
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 823,
+      "name": "국내 외 대학 간 교류 학생 수학 및 학점 인정에 관한 규칙",
+      "allVersions": [
+        823
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 819,
+      "name": "한국기술교육대학교 위임규칙",
+      "allVersions": [
+        819
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 818,
+      "name": "임시교원 인사관리규칙 [규칙 제436호]",
+      "allVersions": [
+        818
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 817,
+      "name": "[규정 제81호]",
+      "allVersions": [
+        817
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 816,
+      "name": "정 관 시 행 세 칙",
+      "allVersions": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        558,
+        816
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 815,
+      "name": "학교법인 한국기술교육대학교정관",
+      "allVersions": [
+        388,
+        389,
+        390,
+        409,
+        410,
+        560,
+        805,
+        815
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 809,
+      "name": "인권경영 이행 규칙",
+      "allVersions": [
+        636,
+        809
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 808,
+      "name": "인권 보호 및 침해 예방을 위한 규칙",
+      "allVersions": [
+        635,
+        808
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 807,
+      "name": "교원강의평가지침",
+      "allVersions": [
+        276,
+        277,
+        278,
+        650,
+        807
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 801,
+      "name": "명예박사학위 후보 추천에 관한 지침",
+      "allVersions": [
+        663,
+        801
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 800,
+      "name": "공익신고 처리 및 신고자 보호 등에 관한 운영지침",
+      "allVersions": [
+        553,
+        743,
+        800
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 798,
+      "name": "직원채용에 관한 지침",
+      "allVersions": [
+        529,
+        531,
+        532,
+        533,
+        587,
+        798
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 796,
+      "name": "한국기술교육대학교위임규칙",
+      "allVersions": [
+        78,
+        566,
+        796
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 793,
+      "name": "유연근무제 운영지침",
+      "allVersions": [
+        793
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 792,
+      "name": "마이크로디그리 이수에 관한 지침",
+      "allVersions": [
+        792
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 791,
+      "name": "한국기술교육대학교 학칙 (제26호)",
+      "allVersions": [
+        791
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 790,
+      "name": "고용노동연수원 운영규칙",
+      "allVersions": [
+        362,
+        364,
+        790
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 788,
+      "name": "감사규정",
+      "allVersions": [
+        788
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 786,
+      "name": "한국기술교육대학교 종합운동장 관리운영규칙",
+      "allVersions": [
+        367,
+        786
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 785,
+      "name": "한국기술교육대학교위임규칙(규칙 제417호)",
+      "allVersions": [
+        785
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 783,
+      "name": "직제규정 시행규칙(규칙 제416호)",
+      "allVersions": [
+        783
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 782,
+      "name": "데이터성과센터 운영 규칙",
+      "allVersions": [
+        782
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 781,
+      "name": "고용직업능력개발센터 운영관리 규칙(규칙 제413호)",
+      "allVersions": [
+        781
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 780,
+      "name": "강사인사관리 규칙(제419호)",
+      "allVersions": [
+        780
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 779,
+      "name": "학교시설재해예방에관한안전규칙(개정안)(규칙제220호)",
+      "allVersions": [
+        779
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 778,
+      "name": "도서관운영규칙",
+      "allVersions": [
+        359,
+        778
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 777,
+      "name": "한국기술교육대학교 대학원 통합학칙",
+      "allVersions": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        777
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 776,
+      "name": "전자계산소운영규칙",
+      "allVersions": [
+        776
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 775,
+      "name": "대학원 계약학과 운영에 관한 규칙",
+      "allVersions": [
+        116,
+        118,
+        119,
+        122,
+        775
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 774,
+      "name": "재해 및 안전보건관리 규칙(규칙제184호)",
+      "allVersions": [
+        774
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 773,
+      "name": "한국기술교육대학교업무분장규칙",
+      "allVersions": [
+        75,
+        773
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 772,
+      "name": "위험성평가 실시 지침(지침제36호)",
+      "allVersions": [
+        772
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 771,
+      "name": "대학홍보위원회 운영규칙",
+      "allVersions": [
+        771
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 770,
+      "name": "안전보건관리규칙",
+      "allVersions": [
+        546,
+        547,
+        548,
+        770
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 769,
+      "name": "어학교육센터 운영 관리규칙",
+      "allVersions": [
+        769
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 767,
+      "name": "외국어능력인정제운영지침 [지침제62호]",
+      "allVersions": [
+        767
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 766,
+      "name": "공무국외출장심사위원회 운영지침(지침제33호)",
+      "allVersions": [
+        766
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 765,
+      "name": "당직근무규칙[규칙 제287호]",
+      "allVersions": [
+        765
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 764,
+      "name": "성희롱·성폭력 예방과 처리에 관한 규칙",
+      "allVersions": [
+        764
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 763,
+      "name": "LINC+사업단 운영규칙",
+      "allVersions": [
+        763
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 762,
+      "name": "대학자율역량강화지원사업단 운영규칙",
+      "allVersions": [
+        762
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 761,
+      "name": "한국기술교육대학교발전기금관리규칙",
+      "allVersions": [
+        761
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 760,
+      "name": "대학교육개발센터 운영관리규칙",
+      "allVersions": [
+        760
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 759,
+      "name": "직원전직ㆍ승진시험시행지침",
+      "allVersions": [
+        93,
+        759
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 758,
+      "name": "창의융합제조센터 운영규칙",
+      "allVersions": [
+        758
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 757,
+      "name": "CCTV 설치·운영지침",
+      "allVersions": [
+        358,
+        757
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 756,
+      "name": "창조인재교육개발단 운영 규칙",
+      "allVersions": [
+        756
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 755,
+      "name": "개인정보보호지침",
+      "allVersions": [
+        755
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 754,
+      "name": "정보자산 보호지침",
+      "allVersions": [
+        365,
+        366,
+        754
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 753,
+      "name": "무기계약직원 운영에 관한 규칙",
+      "allVersions": [
+        753
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 752,
+      "name": "공무직 직원 관리규칙",
+      "allVersions": [
+        752
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 750,
+      "name": "청렴시민감사관 운영지침",
+      "allVersions": [
+        750
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 749,
+      "name": "직업능력심사평가원 직원 소송지원 등에 관한 지침[지침 제104호]",
+      "allVersions": [
+        749
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 748,
+      "name": "일학습병행대학 현장훈련(OJT) 수업 운영에 관한 지침",
+      "allVersions": [
+        748
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 747,
+      "name": "이러닝 강좌 운영기준",
+      "allVersions": [
+        747
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 746,
+      "name": "부속기관 파트조직 설치 및 운영 지침",
+      "allVersions": [
+        746
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 745,
+      "name": "대학혁신사업단 운영 규칙[개정 전문]",
+      "allVersions": [
+        722,
+        745
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 744,
+      "name": "대학융합교육운영위원회 운영지침",
+      "allVersions": [
+        744
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 742,
+      "name": "공공건축심의위원회 설치 및 운영지침[지침 제94호]",
+      "allVersions": [
+        742
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 741,
+      "name": "PBL 강좌 운영지침",
+      "allVersions": [
+        741
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 740,
+      "name": "한국기술교육대학교신문사사칙",
+      "allVersions": [
+        740
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 739,
+      "name": "한국기술교육대학교 학교기업 운영세칙",
+      "allVersions": [
+        739
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 738,
+      "name": "한국기술교육대학교 종합운동장 관리운영규칙[규칙 제290호]",
+      "allVersions": [
+        738
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 737,
+      "name": "창조창업창직교육센터 운영규정",
+      "allVersions": [
+        737
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 736,
+      "name": "창업프로그램 운영 지침",
+      "allVersions": [
+        736
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 735,
+      "name": "한국기술교육대학교 창업보육센터 운영규정",
+      "allVersions": [
+        735
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 734,
+      "name": "창업동아리 관리지침",
+      "allVersions": [
+        734
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 733,
+      "name": "창업교과목 운영 지침",
+      "allVersions": [
+        733
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 732,
+      "name": "생활관 관리규칙",
+      "allVersions": [
+        732
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 730,
+      "name": "대학입학전형의 선행학습 영향평가에 관한 규칙",
+      "allVersions": [
+        730
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 729,
+      "name": "국내외 학술교류규칙",
+      "allVersions": [
+        327,
+        729
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 728,
+      "name": "제4호 국가연구개발사업 연구과제 보안관리 규정 제정(안)",
+      "allVersions": [
+        728
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 727,
+      "name": "USB메모리 등 휴대용 저장매체 보안관리지침",
+      "allVersions": [
+        481,
+        727
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 726,
+      "name": "학생지도위원회 운영규칙",
+      "allVersions": [
+        726
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 725,
+      "name": "특성화사업 추진위원회 운영 규칙",
+      "allVersions": [
+        725
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 724,
+      "name": "직원재심위원회운영규칙",
+      "allVersions": [
+        724
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 723,
+      "name": "등록금심의위원회 운영규칙",
+      "allVersions": [
+        370,
+        723
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 721,
+      "name": "한국기술교육대학교 대학평의원회 운영규정(규칙제139호)",
+      "allVersions": [
+        721
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 719,
+      "name": "기획위원회운영규칙",
+      "allVersions": [
+        719
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 718,
+      "name": "시설ㆍ공간조정위원회 규칙(규칙제159호)",
+      "allVersions": [
+        718
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 717,
+      "name": "한국기술교육대학교 능력개발교육원 운영규칙(규칙 제316호)",
+      "allVersions": [
+        717
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 716,
+      "name": "한국기술교육대학교 부설 원격평생교육원 운영규칙",
+      "allVersions": [
+        716
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 715,
+      "name": "한국기술교육대학교 반도체특성화대학사업단 운영규칙",
+      "allVersions": [
+        715
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 713,
+      "name": "한국기술교육대학교 부설 평생교육원 운영규칙",
+      "allVersions": [
+        713
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 712,
+      "name": "창업지원센터 운영지침",
+      "allVersions": [
+        712
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 711,
+      "name": "직업능력심사평가원 운영규칙[규칙 제403호]",
+      "allVersions": [
+        711
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 710,
+      "name": "정밀공작기계연구소운영관리규칙",
+      "allVersions": [
+        710
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 709,
+      "name": "전산정보의 관리 및 서비스에 관한 규칙",
+      "allVersions": [
+        709
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 708,
+      "name": "이러닝 운영강사 위촉 및 활동관리 지침",
+      "allVersions": [
+        708
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 707,
+      "name": "온라인평생교육원 콘텐츠 관리지침",
+      "allVersions": [
+        707
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 706,
+      "name": "한국기술교육대학교 온라인평생교육원 운영규칙",
+      "allVersions": [
+        441,
+        446,
+        447,
+        448,
+        706
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 705,
+      "name": "상담ㆍ진로개발센터 운영규칙",
+      "allVersions": [
+        373,
+        705
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 704,
+      "name": "부설연구소의설치및관리에관한규칙",
+      "allVersions": [
+        329,
+        704
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 703,
+      "name": "데이터성과센터 운영규칙",
+      "allVersions": [
+        703
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 702,
+      "name": "대학교육개발단 운영 규칙",
+      "allVersions": [
+        702
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 701,
+      "name": "다담창의센터 운영규칙",
+      "allVersions": [
+        701
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 700,
+      "name": "다담 미래학습관 운영 규칙",
+      "allVersions": [
+        700
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 699,
+      "name": "국제교육센터 운영 관리 지침",
+      "allVersions": [
+        699
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 698,
+      "name": "교양교육센터 운영 규칙",
+      "allVersions": [
+        698
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 697,
+      "name": "공학교육혁신센터운영관리규칙",
+      "allVersions": [
+        697
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 696,
+      "name": "MSC교육센터 운영관리규칙",
+      "allVersions": [
+        696
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 695,
+      "name": "LINC 3.0사업단 운영규칙",
+      "allVersions": [
+        555,
+        695
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 694,
+      "name": "IPP 센터 운영규칙",
+      "allVersions": [
+        694
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 693,
+      "name": "E²-반도체장비 인재양성센터 운영규칙",
+      "allVersions": [
+        693
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 692,
+      "name": "학생증에관한규칙",
+      "allVersions": [
+        692
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 690,
+      "name": "학생단체 및 학생활동지도 시행지침",
+      "allVersions": [
+        690
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 689,
+      "name": "학생 집단활동 운영 및 안전지침",
+      "allVersions": [
+        689
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 688,
+      "name": "지도교수제 운영 규칙",
+      "allVersions": [
+        688
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 687,
+      "name": "장학금에 관한 규칙",
+      "allVersions": [
+        687
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 686,
+      "name": "장애학생지원에관한규칙",
+      "allVersions": [
+        686
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 685,
+      "name": "한국기술교육대학교 외국인 유학생 관리 지침",
+      "allVersions": [
+        685
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 684,
+      "name": "사회봉사센터 규칙",
+      "allVersions": [
+        326,
+        684
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 683,
+      "name": "북한이탈주민 및 다문화가정 학생지원에 관한 지침",
+      "allVersions": [
+        683
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 681,
+      "name": "현장실습교육운영관리규칙",
+      "allVersions": [
+        681
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 680,
+      "name": "한국기술교육대학교 학위검증위원회 규정",
+      "allVersions": [
+        680
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 679,
+      "name": "학 ㆍ 석사연계과정 시행세칙",
+      "allVersions": [
+        679
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 678,
+      "name": "학생창업지원 운영규칙",
+      "allVersions": [
+        678
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 676,
+      "name": "테크노인력개발전문대학원 학사운영규칙",
+      "allVersions": [
+        218,
+        219,
+        220,
+        676
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 675,
+      "name": "중등학교교직과정이수에관한규칙",
+      "allVersions": [
+        675
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 674,
+      "name": "정년보장임용심사에관한규칙",
+      "allVersions": [
+        674
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 673,
+      "name": "장기현장실습(IPP)트랙 운영 지침",
+      "allVersions": [
+        673
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 672,
+      "name": "온라인 강좌 운영기준",
+      "allVersions": [
+        672
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 671,
+      "name": "연구윤리 확보 및 진실성 검증에 관한 규칙",
+      "allVersions": [
+        114,
+        671
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 670,
+      "name": "연구노트 작성 및 관리에 관한 규칙",
+      "allVersions": [
+        670
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 668,
+      "name": "시간강사 위촉 및 강사료지급에 관한 규칙",
+      "allVersions": [
+        668
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 667,
+      "name": "수업연한 단축 석사학위과정 운영에 관한 규칙",
+      "allVersions": [
+        667
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 666,
+      "name": "석ㆍ박사 통합과정 시행세칙",
+      "allVersions": [
+        474,
+        475,
+        666
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 665,
+      "name": "생명윤리심의위원회 운영규칙",
+      "allVersions": [
+        665
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 664,
+      "name": "명예졸업에 관한 규칙",
+      "allVersions": [
+        664
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 662,
+      "name": "명예교수에 관한 규칙",
+      "allVersions": [
+        662
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 659,
+      "name": "기술연구원 채용업무 처리방침",
+      "allVersions": [
+        659
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 658,
+      "name": "국내외대학간교류학생수학및학점인정에관한규칙",
+      "allVersions": [
+        658
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 657,
+      "name": "국내·외 대학간 복수·공동학위과정 운영에 관한 규칙",
+      "allVersions": [
+        657
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 656,
+      "name": "교육연구장비관리규칙",
+      "allVersions": [
+        656
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 655,
+      "name": "교육ㆍ연구설비및재료운용지침",
+      "allVersions": [
+        655
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 654,
+      "name": "한국기술교육대학교 연구원 임용 규칙",
+      "allVersions": [
+        654
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 653,
+      "name": "교원 재ㆍ승진임용에 관한 규칙",
+      "allVersions": [
+        260,
+        264,
+        653
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 652,
+      "name": "교원업적평가지침",
+      "allVersions": [
+        265,
+        652
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 649,
+      "name": "교원 성과급적 연봉제 운영규칙(규칙 제408호)",
+      "allVersions": [
+        649
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 648,
+      "name": "교수-자녀 간 강의 수강 및 성적평가 관리에 관한 지침",
+      "allVersions": [
+        648
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 647,
+      "name": "계약학과 운영에 관한 규칙(규칙 제415호)",
+      "allVersions": [
+        647
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 646,
+      "name": "IT융합과학경영산업대학원 학사운영규칙",
+      "allVersions": [
+        195,
+        196,
+        646
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 645,
+      "name": "홈페이지 구축 및 운영지침",
+      "allVersions": [
+        346,
+        645
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 644,
+      "name": "청렴마일리지 운영 지침",
+      "allVersions": [
+        644
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 643,
+      "name": "차량관리 규칙",
+      "allVersions": [
+        643
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 642,
+      "name": "제증명발급규칙",
+      "allVersions": [
+        642
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 641,
+      "name": "제안제도운영규칙",
+      "allVersions": [
+        641
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 640,
+      "name": "정보보호업무 연속성 관리지침",
+      "allVersions": [
+        360,
+        361,
+        640
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 638,
+      "name": "자체평가에 관한 규칙",
+      "allVersions": [
+        638
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 637,
+      "name": "자물쇠(잠금장치)의설치및열쇠관리에관한규칙",
+      "allVersions": [
+        386,
+        637
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 634,
+      "name": "신분증규칙",
+      "allVersions": [
+        634
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 632,
+      "name": "시설공사직영처리규칙",
+      "allVersions": [
+        632
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 631,
+      "name": "상품권 구매·사용 및 관리에 관한 지침",
+      "allVersions": [
+        631
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 630,
+      "name": "사무관리규칙",
+      "allVersions": [
+        341,
+        342,
+        343,
+        630
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 629,
+      "name": "부패행위 신고 접수ㆍ처리 및 신고자 보호 등에 관한 지침",
+      "allVersions": [
+        629
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 628,
+      "name": "부정청탁 및 금품 등 수수의 신고사무 처리지침",
+      "allVersions": [
+        628
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 626,
+      "name": "대학발전기금 관리규칙",
+      "allVersions": [
+        626
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 624,
+      "name": "대학수요자 만족도조사에 관한 규칙",
+      "allVersions": [
+        624
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 623,
+      "name": "당직 및 비상근무규칙",
+      "allVersions": [
+        623
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 622,
+      "name": "내규관리규칙(규칙 제411호)",
+      "allVersions": [
+        622
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 621,
+      "name": "기록관리 규칙",
+      "allVersions": [
+        621
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 620,
+      "name": "교직원 주택대여 및 주택자금대부 지침",
+      "allVersions": [
+        620
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 619,
+      "name": "교직원 대여주택 관리 및 사용에 관한 지침",
+      "allVersions": [
+        619
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 618,
+      "name": "교내홍보물게시에관한지침",
+      "allVersions": [
+        331,
+        618
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 617,
+      "name": "교기ㆍ휘장ㆍ교색및글씨체에관한규칙",
+      "allVersions": [
+        617
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 616,
+      "name": "공무국외출장 운영지침",
+      "allVersions": [
+        534,
+        616
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 614,
+      "name": "개교기념일에관한규칙",
+      "allVersions": [
+        614
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 613,
+      "name": "전기안전관리규칙",
+      "allVersions": [
+        613
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 611,
+      "name": "안전본부장의 안전관리 책무 지침",
+      "allVersions": [
+        611
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 609,
+      "name": "대학 내 개인형 이동장치 안전관리규칙",
+      "allVersions": [
+        609
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 608,
+      "name": "회 계 규 정",
+      "allVersions": [
+        608
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 607,
+      "name": "협상에 의한 계약 제안서평가위원회 구성 세부기준",
+      "allVersions": [
+        607
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 605,
+      "name": "퇴직금지급규칙",
+      "allVersions": [
+        605
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 604,
+      "name": "재산 및 물품운용 관리규칙",
+      "allVersions": [
+        604
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 603,
+      "name": "임금피크제 운영에 관한 지침",
+      "allVersions": [
+        603
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 602,
+      "name": "여비지급규칙【규칙 제380호】",
+      "allVersions": [
+        602
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 598,
+      "name": "법인카드 관리ㆍ운영 지침[지침 제87호]",
+      "allVersions": [
+        598
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 597,
+      "name": "기술연구원 성과급적 연봉제 운영규칙[규칙 제253호]",
+      "allVersions": [
+        597
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 596,
+      "name": "기금운용심의회 운영 규칙(규칙 제147호)",
+      "allVersions": [
+        596
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 595,
+      "name": "교직원명예퇴직수당등지급규정",
+      "allVersions": [
+        595
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 594,
+      "name": "계약사무처리지침[지침 제86호]",
+      "allVersions": [
+        594
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 593,
+      "name": "감사규정시행규칙",
+      "allVersions": [
+        182,
+        183,
+        184,
+        593
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 591,
+      "name": "휴직자 복무관리 지침",
+      "allVersions": [
+        591
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 590,
+      "name": "한국기술교육대학교 소속 교직원 등의 직무관련범죄 고발지침",
+      "allVersions": [
+        590
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 589,
+      "name": "한국기술교육대학교 교직원 행동강령",
+      "allVersions": [
+        106,
+        589
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 588,
+      "name": "타교출강처리지침",
+      "allVersions": [
+        588
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 585,
+      "name": "직원인사규정시행규칙(규칙 제412호)",
+      "allVersions": [
+        585
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 584,
+      "name": "직원승진시험시행지침(안)",
+      "allVersions": [
+        584
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 583,
+      "name": "조교인사관리규칙 [규칙 제283호]",
+      "allVersions": [
+        583
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 582,
+      "name": "정년보장 교원 호봉승급 지침",
+      "allVersions": [
+        582
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 581,
+      "name": "임시교원 인사관리규칙 [규칙 제404호]",
+      "allVersions": [
+        581
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 580,
+      "name": "시간선택제 직원에 관한 규칙",
+      "allVersions": [
+        580
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 579,
+      "name": "비정년트랙전임교원 운영에 관한 규칙 [규칙 제282호]",
+      "allVersions": [
+        579
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 578,
+      "name": "비정규직 채용 사전심사제 운영 지침(안)[지침 제71호]",
+      "allVersions": [
+        578
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 577,
+      "name": "복무규정[규정 제74호]",
+      "allVersions": [
+        577
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 576,
+      "name": "별정직직원인사관리지침",
+      "allVersions": [
+        576
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 575,
+      "name": "기술연구원인사규정【규정 제67호】",
+      "allVersions": [
+        575
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 573,
+      "name": "국외여행에관한규칙",
+      "allVersions": [
+        86,
+        573
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 572,
+      "name": "교직원 음주운전 비위행위 확인에 관한 지침",
+      "allVersions": [
+        572
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 571,
+      "name": "교원호봉획정지침",
+      "allVersions": [
+        571
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 570,
+      "name": "교원인사규정(규정 제55호)",
+      "allVersions": [
+        570
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 569,
+      "name": "교원연구제에 관한 규칙",
+      "allVersions": [
+        88,
+        569
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 565,
+      "name": "학교법인 한국기술교육대학교 위임규칙",
+      "allVersions": [
+        565
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 564,
+      "name": "학교법인한국기술교육대학교업무분장규칙",
+      "allVersions": [
+        564
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 561,
+      "name": "한국기술교육대학교 학칙(학칙 제27호)",
+      "allVersions": [
+        561
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 559,
+      "name": "총장후보자선임위원회 운영규정",
+      "allVersions": [
+        559
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 556,
+      "name": "한국기술교육대학교 개방이사추천위원회 운영규정",
+      "allVersions": [
+        556
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 552,
+      "name": "직업능력심사평가원 운영규칙",
+      "allVersions": [
+        550,
+        551,
+        552
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 549,
+      "name": "[지침 제78호]",
+      "allVersions": [
+        549
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 545,
+      "name": "[지침 제81호] 온라인평생교육원 콘텐츠 관리지침 전부개정 전문",
+      "allVersions": [
+        545
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 544,
+      "name": "[지침 제55호] 온라인평생교육원 콘텐츠 관리지침 개정 전문",
+      "allVersions": [
+        544
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 543,
+      "name": "[지침 제54호]",
+      "allVersions": [
+        543
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 542,
+      "name": "법인카드 관리ㆍ운영 지침",
+      "allVersions": [
+        542
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 539,
+      "name": "[규칙 제230호]",
+      "allVersions": [
+        539
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 538,
+      "name": "한국기술교육대학교 연구원 임용 규칙(규칙 제192호)",
+      "allVersions": [
+        538
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 537,
+      "name": "차량관리 규칙(규칙제183호)",
+      "allVersions": [
+        537
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 536,
+      "name": "[지침 제101호]",
+      "allVersions": [
+        536
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 535,
+      "name": "[지침 제70호]",
+      "allVersions": [
+        535
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 530,
+      "name": "[지침 제63호]",
+      "allVersions": [
+        530
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 527,
+      "name": "직원채용에 관한 지침(지침제34호)",
+      "allVersions": [
+        527
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 526,
+      "name": "[지침 제30호]",
+      "allVersions": [
+        526
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 525,
+      "name": "[지침 제59호]",
+      "allVersions": [
+        525
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 524,
+      "name": "[개정 전문]",
+      "allVersions": [
+        524
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 522,
+      "name": "대학혁신사업단 운영 규칙(규칙제179호)",
+      "allVersions": [
+        522
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 521,
+      "name": "대학혁신사업단 운영 규칙(규칙제174호)",
+      "allVersions": [
+        521
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 520,
+      "name": "한국기술교육대학교 부설 원격평생교육원 운영규칙(규칙제172호)",
+      "allVersions": [
+        520
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 519,
+      "name": "강사인사관리 규칙(규칙제234호)",
+      "allVersions": [
+        519
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 510,
+      "name": "비정년트랙전임교원 운영에 관한 규칙(규칙 제231호)",
+      "allVersions": [
+        510
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 505,
+      "name": "【규칙 제353호】",
+      "allVersions": [
+        505
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 504,
+      "name": "【규칙 제320호】",
+      "allVersions": [
+        504
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 497,
+      "name": "학생 집단 활동 운영 및 안전 지침",
+      "allVersions": [
+        497
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 484,
+      "name": "국제교육센터운영관리지침",
+      "allVersions": [
+        484
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 479,
+      "name": "[규칙 제102호]",
+      "allVersions": [
+        479
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 476,
+      "name": "학 ㆍ 석사 연계과정 시행세칙",
+      "allVersions": [
+        476
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 445,
+      "name": "한국기술교육대학교 온라인평생교육원 운영규칙(규칙제241호)",
+      "allVersions": [
+        445
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 444,
+      "name": "한국기술교육대학교 온라인평생교육원 운영규칙(규칙제171호)",
+      "allVersions": [
+        444
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 436,
+      "name": "규칙 제270호",
+      "allVersions": [
+        436
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 435,
+      "name": "규칙 제160호",
+      "allVersions": [
+        435
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 434,
+      "name": "학술정보의 관리 및 서비스에 관한 규칙(규칙 제160호)",
+      "allVersions": [
+        434
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 429,
+      "name": "기술연구원인사규정(규정 제44호)",
+      "allVersions": [
+        428,
+        429
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 427,
+      "name": "기술연구원인사규정",
+      "allVersions": [
+        427
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 425,
+      "name": "【규칙 제322호】",
+      "allVersions": [
+        425
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 412,
+      "name": "교원인사규정",
+      "allVersions": [
+        411,
+        412
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 393,
+      "name": "학교법인한국기술교육대학교정관",
+      "allVersions": [
+        391,
+        393
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 387,
+      "name": "[규칙 제286호]",
+      "allVersions": [
+        387
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 385,
+      "name": "외국어능력인정제운영지침",
+      "allVersions": [
+        385
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 384,
+      "name": "한국기술교육대학교 능력개발교육원 운영규칙(규칙 제272호)",
+      "allVersions": [
+        384
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 383,
+      "name": "한국기술교육대학교 능력개발교육원 운영규칙(규칙 제149호)",
+      "allVersions": [
+        383
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 381,
+      "name": "한국기술교육대학교능력개발교육원운영규칙",
+      "allVersions": [
+        379,
+        380,
+        381
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 378,
+      "name": "학교시설재해예방에관한안전규칙",
+      "allVersions": [
+        378
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 377,
+      "name": "학생지도위원회운영규칙",
+      "allVersions": [
+        377
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 374,
+      "name": "학생생활연구소운영규칙",
+      "allVersions": [
+        374
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 372,
+      "name": "생활관관리규칙",
+      "allVersions": [
+        371,
+        372
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 368,
+      "name": "한국기술교육대학교 종합운동장 관리운영규칙(규칙제166호)",
+      "allVersions": [
+        368
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 357,
+      "name": "[규칙 제288호]",
+      "allVersions": [
+        357
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 356,
+      "name": "규칙 제1호",
+      "allVersions": [
+        356
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 355,
+      "name": "내규관리규칙",
+      "allVersions": [
+        355
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 352,
+      "name": "실험실습실 안전관리규칙",
+      "allVersions": [
+        352
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 348,
+      "name": "한국기술교육대학교 실험실습실 안전관리규칙",
+      "allVersions": [
+        348
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 345,
+      "name": "[규칙 제313호]",
+      "allVersions": [
+        345
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 344,
+      "name": "[규칙 제294호]",
+      "allVersions": [
+        344
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 337,
+      "name": "성폭력예방과처리에관한규칙",
+      "allVersions": [
+        337
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 336,
+      "name": "[규칙 제316호]",
+      "allVersions": [
+        336
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 335,
+      "name": "[규칙 제289호]",
+      "allVersions": [
+        335
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 332,
+      "name": "한국기술교육대학교 대학평의원회 운영규정",
+      "allVersions": [
+        332
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 330,
+      "name": "교직원대여주택관리및사용에관한지침",
+      "allVersions": [
+        330
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 328,
+      "name": "공간조정위원회규칙",
+      "allVersions": [
+        328
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 323,
+      "name": "사회봉사단 규칙",
+      "allVersions": [
+        323
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 320,
+      "name": "교직원주택대여및주택자금대부지침",
+      "allVersions": [
+        319,
+        320
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 318,
+      "name": "교직원주택대여 및 주택자금대부지침",
+      "allVersions": [
+        317,
+        318
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 316,
+      "name": "공상처리규칙(규칙제170호)",
+      "allVersions": [
+        316
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 313,
+      "name": "장학금에관한규칙",
+      "allVersions": [
+        313
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 305,
+      "name": "학생상벌에 관한 규칙(규칙 제188호)",
+      "allVersions": [
+        305
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 304,
+      "name": "학생상벌에 관한 규칙(규칙제168호)",
+      "allVersions": [
+        304
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 302,
+      "name": "학생상벌에관한규칙",
+      "allVersions": [
+        302
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 301,
+      "name": "학생단체및학생활동지도시행지침",
+      "allVersions": [
+        301
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 298,
+      "name": "재산및물품운용관리규칙",
+      "allVersions": [
+        298
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 297,
+      "name": "【규정 제71호】",
+      "allVersions": [
+        297
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 275,
+      "name": "[지침 제76호]",
+      "allVersions": [
+        275
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 274,
+      "name": "[지침 제53호]",
+      "allVersions": [
+        274
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 263,
+      "name": "【규칙 281호】",
+      "allVersions": [
+        263
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 262,
+      "name": "【규칙 232호】",
+      "allVersions": [
+        262
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 259,
+      "name": "[규칙 제342호]",
+      "allVersions": [
+        259
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 258,
+      "name": "[규칙 제340호]",
+      "allVersions": [
+        258
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 257,
+      "name": "[규칙 제331호]",
+      "allVersions": [
+        257
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 256,
+      "name": "[규칙 제314호]",
+      "allVersions": [
+        256
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 255,
+      "name": "[규칙 제298호]",
+      "allVersions": [
+        255
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 254,
+      "name": "여비지급규칙",
+      "allVersions": [
+        246,
+        247,
+        253,
+        254
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 243,
+      "name": "[규칙 제315호]",
+      "allVersions": [
+        243
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 236,
+      "name": "수당등에 관한 규칙",
+      "allVersions": [
+        233,
+        234,
+        236
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 235,
+      "name": "수당등에관한규칙",
+      "allVersions": [
+        235
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 230,
+      "name": "학사운영에 관한 규칙(규칙 제242호)",
+      "allVersions": [
+        230
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 229,
+      "name": "학사운영에 관한 규칙(규칙제177호)",
+      "allVersions": [
+        229
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 228,
+      "name": "학사운영에 관한 규칙(규칙제144호)",
+      "allVersions": [
+        228
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 226,
+      "name": "규칙 제94호",
+      "allVersions": [
+        226
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 214,
+      "name": "보수규정(규정 제246호)",
+      "allVersions": [
+        214
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 201,
+      "name": "보 수 규 정",
+      "allVersions": [
+        197,
+        199,
+        201
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 194,
+      "name": "산업대학원 학사운영규칙",
+      "allVersions": [
+        193,
+        194
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 192,
+      "name": "IT융합과학경영산업대학원 학사운영규칙(전문)",
+      "allVersions": [
+        192
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 191,
+      "name": "[지침 제60호]",
+      "allVersions": [
+        191
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 190,
+      "name": "계약사무처리지침",
+      "allVersions": [
+        188,
+        190
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 186,
+      "name": "감사규정 시행규칙",
+      "allVersions": [
+        186
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 178,
+      "name": "연구관리규칙(규칙제162호)",
+      "allVersions": [
+        178
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 176,
+      "name": "【규칙 제83호】",
+      "allVersions": [
+        176
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 175,
+      "name": "한국기술교육대학교 연구관리규칙",
+      "allVersions": [
+        174,
+        175
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 172,
+      "name": "[규칙 제287호]",
+      "allVersions": [
+        172
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 171,
+      "name": "당직근무규칙",
+      "allVersions": [
+        171
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 170,
+      "name": "교직원특수병치료비지원지침",
+      "allVersions": [
+        170
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 169,
+      "name": "[규정 제63호]",
+      "allVersions": [
+        169
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 163,
+      "name": "복 무 규 정",
+      "allVersions": [
+        158,
+        159,
+        161,
+        162,
+        163
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 143,
+      "name": "계약학과 학사운영에 관한 규칙",
+      "allVersions": [
+        143
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 125,
+      "name": "[규칙 제105호]",
+      "allVersions": [
+        125
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 124,
+      "name": "명예교수에 관한 규칙 제정",
+      "allVersions": [
+        124
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 113,
+      "name": "조교인사관리규칙(규칙 제150호)",
+      "allVersions": [
+        113
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 112,
+      "name": "【규칙 제92호】",
+      "allVersions": [
+        112
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 111,
+      "name": "조교인사관리규칙",
+      "allVersions": [
+        111
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 101,
+      "name": "교직원 행동강령",
+      "allVersions": [
+        100,
+        101
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 99,
+      "name": "임시교원 인사관리규칙[규칙 제233호]",
+      "allVersions": [
+        99
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 98,
+      "name": "임시교원 인사관리규칙[규칙 제148호]",
+      "allVersions": [
+        98
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 95,
+      "name": "임시교원 인사관리규칙",
+      "allVersions": [
+        95
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 87,
+      "name": "[규칙 제104호]",
+      "allVersions": [
+        87
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 80,
+      "name": "[규칙 제249호]",
+      "allVersions": [
+        80
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 79,
+      "name": "한국기술교육대학교위임규칙(규칙제146호)",
+      "allVersions": [
+        79
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 76,
+      "name": "학교법인한국기술교육대학교위임규칙",
+      "allVersions": [
+        76
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 25,
+      "name": "학 칙[학칙 제16호]",
+      "allVersions": [
+        25
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 23,
+      "name": "[학칙 제14호]",
+      "allVersions": [
+        23
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 20,
+      "name": "학 칙",
+      "allVersions": [
+        10,
+        12,
+        13,
+        14,
+        19,
+        20
+      ],
+      "isLatest": true
+    }
+  ]
+}

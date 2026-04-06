@@ -1,0 +1,5451 @@
+{
+  "lastUpdated": "2026-04-06T05:32:49.074Z",
+  "maxScannedId": 2000,
+  "totalRegulations": 582,
+  "regulations": [
+    {
+      "id": 1738,
+      "name": "교과과정 운영에 관한 내규",
+      "allVersions": [
+        514,
+        540,
+        1649,
+        1738
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1737,
+      "name": "웨슬리신학대학원 학칙 시행세칙",
+      "allVersions": [
+        1277,
+        1483,
+        1511,
+        1549,
+        1694,
+        1737
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1736,
+      "name": "웨슬리신학대학원 학칙",
+      "allVersions": [
+        1276,
+        1309,
+        1363,
+        1470,
+        1482,
+        1510,
+        1548,
+        1662,
+        1736
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1735,
+      "name": "DSC공유대학 학사 운영 규정",
+      "allVersions": [
+        1047,
+        1073,
+        1405,
+        1735
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1734,
+      "name": "학생역량강화 지원 규정",
+      "allVersions": [
+        1006,
+        1342,
+        1393,
+        1734
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1733,
+      "name": "RGB발전소 규정",
+      "allVersions": [
+        285,
+        1733
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1732,
+      "name": "학칙",
+      "allVersions": [
+        1284,
+        1289,
+        1317,
+        1332,
+        1365,
+        1406,
+        1429,
+        1433,
+        1443,
+        1454,
+        1469,
+        1487,
+        1519,
+        1534,
+        1545,
+        1562,
+        1585,
+        1588,
+        1660,
+        1678,
+        1699,
+        1701,
+        1732
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1731,
+      "name": "국제교육원 학사 운영 규정",
+      "allVersions": [
+        912,
+        1106,
+        1305,
+        1507,
+        1695,
+        1731
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1730,
+      "name": "보안 업무 규정",
+      "allVersions": [
+        242,
+        1259,
+        1324,
+        1730
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1729,
+      "name": "사무 분장 규정",
+      "allVersions": [
+        236,
+        689,
+        968,
+        998,
+        1045,
+        1059,
+        1081,
+        1167,
+        1230,
+        1383,
+        1409,
+        1439,
+        1449,
+        1463,
+        1551,
+        1552,
+        1560,
+        1563,
+        1582,
+        1667,
+        1704,
+        1729
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1728,
+      "name": "외국인 유학생 관리에 관한 규정",
+      "allVersions": [
+        321,
+        810,
+        957,
+        1107,
+        1293,
+        1374,
+        1589,
+        1728
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1727,
+      "name": "위원회 설치·운영 규정",
+      "allVersions": [
+        1727
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1726,
+      "name": "대학혁신본부 운영 규정",
+      "allVersions": [
+        1384,
+        1559,
+        1677,
+        1726
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1725,
+      "name": "학위청구논문심사에 관한 내규",
+      "allVersions": [
+        1687,
+        1719,
+        1725
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1724,
+      "name": "외국어 및 종합시험 자격시험에 관한 내규",
+      "allVersions": [
+        513,
+        1721,
+        1724
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1723,
+      "name": "SIG프로그램 학사 운영에 관한 내규",
+      "allVersions": [
+        1078,
+        1122,
+        1174,
+        1627,
+        1685,
+        1723
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1722,
+      "name": "중앙도서관 운영 규정",
+      "allVersions": [
+        274,
+        685,
+        901,
+        1127,
+        1267,
+        1462,
+        1521,
+        1722
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1720,
+      "name": "주임교수 및 지도교수에 관한 내규",
+      "allVersions": [
+        1720
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1718,
+      "name": "총장후보자 추천위원회 운영세칙",
+      "allVersions": [
+        18,
+        1092,
+        1475,
+        1718
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1717,
+      "name": "창업 지원에 관한 규정",
+      "allVersions": [
+        603,
+        1538,
+        1716,
+        1717
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1715,
+      "name": "산학협력단 운영규정",
+      "allVersions": [
+        711,
+        713,
+        714,
+        719,
+        720,
+        721,
+        722,
+        723,
+        724,
+        725,
+        726,
+        826,
+        1033,
+        1067,
+        1116,
+        1144,
+        1146,
+        1221,
+        1265,
+        1299,
+        1351,
+        1352,
+        1375,
+        1466,
+        1499,
+        1535,
+        1688,
+        1715
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1714,
+      "name": "AI융복합전공교육과정 운영 규정",
+      "allVersions": [
+        1714
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1713,
+      "name": "위임전결 규정",
+      "allVersions": [
+        250,
+        614,
+        708,
+        709,
+        710,
+        1222,
+        1713
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1712,
+      "name": "전과에 관한 규정",
+      "allVersions": [
+        1485,
+        1712
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1711,
+      "name": "복수전공에 관한 규정",
+      "allVersions": [
+        805,
+        850,
+        921,
+        1530,
+        1711
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1710,
+      "name": "수강 신청 규정",
+      "allVersions": [
+        854,
+        1219,
+        1234,
+        1390,
+        1710
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1709,
+      "name": "학칙 시행세칙",
+      "allVersions": [
+        761,
+        789,
+        864,
+        918,
+        948,
+        967,
+        981,
+        989,
+        1014,
+        1037,
+        1072,
+        1111,
+        1123,
+        1141,
+        1206,
+        1218,
+        1231,
+        1318,
+        1379,
+        1389,
+        1418,
+        1430,
+        1438,
+        1455,
+        1461,
+        1520,
+        1570,
+        1709
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1708,
+      "name": "정보공개에 관한 규정",
+      "allVersions": [
+        271,
+        1079,
+        1708
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1707,
+      "name": "공간관리 규정",
+      "allVersions": [
+        272,
+        938,
+        976,
+        1246,
+        1492,
+        1707
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1706,
+      "name": "전자 문서 규정",
+      "allVersions": [
+        1706
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1705,
+      "name": "전산정보서비스 운영 규정",
+      "allVersions": [
+        277,
+        809,
+        1247,
+        1705
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1703,
+      "name": "전산정보센터 운영 규정",
+      "allVersions": [
+        1703
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1702,
+      "name": "원격수업 및 원격강좌 운영 규정",
+      "allVersions": [
+        1702
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1700,
+      "name": "기관생명윤리위원회 규정",
+      "allVersions": [
+        464,
+        1700
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1698,
+      "name": "식품제약학부 제약전공 졸업논문에 관한 내규",
+      "allVersions": [
+        1698
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1697,
+      "name": "식품제약학부 식품전공 졸업논문에 관한 내규",
+      "allVersions": [
+        1697
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1696,
+      "name": "생물산업학부 졸업논문 내규",
+      "allVersions": [
+        1696
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1693,
+      "name": "대학평의원회 운영규정",
+      "allVersions": [
+        1693
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1692,
+      "name": "제안제도 운영규정",
+      "allVersions": [
+        1564,
+        1591,
+        1692
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1691,
+      "name": "장학 규정",
+      "allVersions": [
+        701,
+        717,
+        785,
+        834,
+        849,
+        866,
+        897,
+        952,
+        983,
+        1005,
+        1049,
+        1057,
+        1076,
+        1119,
+        1126,
+        1190,
+        1207,
+        1330,
+        1359,
+        1380,
+        1424,
+        1437,
+        1447,
+        1457,
+        1494,
+        1508,
+        1542,
+        1691
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1690,
+      "name": "학·석사 연계과정 운영규정",
+      "allVersions": [
+        1540,
+        1690
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1689,
+      "name": "산학협력단 물품 구매 규정",
+      "allVersions": [
+        729,
+        730,
+        731,
+        732,
+        734,
+        1147,
+        1353,
+        1689
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1686,
+      "name": "금융경제학과 졸업논문 내규",
+      "allVersions": [
+        1606,
+        1686
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1684,
+      "name": "학위 논문에 관한 내규",
+      "allVersions": [
+        569,
+        1647,
+        1684
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1683,
+      "name": "입학 전형 시행 내규",
+      "allVersions": [
+        1653,
+        1683
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1682,
+      "name": "종합시험 시행에 관한 내규",
+      "allVersions": [
+        1646,
+        1682
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1681,
+      "name": "마케팅빅데이터학과 졸업논문 내규",
+      "allVersions": [
+        1628,
+        1681
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1680,
+      "name": "항공호텔관광경영학과 졸업논문 내규",
+      "allVersions": [
+        1604,
+        1680
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1679,
+      "name": "교원업적평가 규정",
+      "allVersions": [
+        876,
+        1044,
+        1066,
+        1237,
+        1295,
+        1362,
+        1370,
+        1395,
+        1417,
+        1502,
+        1514,
+        1557,
+        1575,
+        1679
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1676,
+      "name": "교원 인사 규정",
+      "allVersions": [
+        786,
+        932,
+        951,
+        1031,
+        1184,
+        1236,
+        1314,
+        1360,
+        1412,
+        1676
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1675,
+      "name": "LINC 3.0 사업단 운영 규정",
+      "allVersions": [
+        1130,
+        1270,
+        1358,
+        1675
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1674,
+      "name": "편제 및 입학정원 조정에 관한 규정",
+      "allVersions": [
+        891,
+        1210,
+        1328,
+        1674
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1673,
+      "name": "목원대학교 중·장기발전계획위원회 운영 규정",
+      "allVersions": [
+        863,
+        1274,
+        1673
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1672,
+      "name": "대학기관평가인증 추진 규정",
+      "allVersions": [
+        265,
+        1273,
+        1672
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1671,
+      "name": "기획위원회 규정",
+      "allVersions": [
+        437,
+        835,
+        1252,
+        1671
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1670,
+      "name": "교육수요자 만족도 관리 규정",
+      "allVersions": [
+        324,
+        1251,
+        1670
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1669,
+      "name": "국책사업추진단 규정",
+      "allVersions": [
+        690,
+        1239,
+        1669
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1668,
+      "name": "자체평가 규정",
+      "allVersions": [
+        259,
+        1262,
+        1668
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1666,
+      "name": "총장 직속부서 규정",
+      "allVersions": [
+        1558,
+        1580,
+        1666
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1665,
+      "name": "직제 규정",
+      "allVersions": [
+        757,
+        935,
+        997,
+        1030,
+        1060,
+        1086,
+        1164,
+        1183,
+        1227,
+        1408,
+        1458,
+        1579,
+        1665
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1664,
+      "name": "학교법인 감리교학원 정관",
+      "allVersions": [
+        1,
+        2,
+        10,
+        927,
+        996,
+        1029,
+        1071,
+        1090,
+        1165,
+        1191,
+        1224,
+        1300,
+        1411,
+        1450,
+        1473,
+        1495,
+        1664
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1663,
+      "name": "계약에 의한 학과 설치ㆍ운영 규정",
+      "allVersions": [
+        1371,
+        1490,
+        1663
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1661,
+      "name": "대학원 학칙",
+      "allVersions": [
+        824,
+        846,
+        880,
+        994,
+        1120,
+        1134,
+        1149,
+        1154,
+        1319,
+        1364,
+        1432,
+        1442,
+        1479,
+        1512,
+        1546,
+        1661
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1659,
+      "name": "비목회·기안수자 과정(Th.M.,M.Div.)에 관한 내규",
+      "allVersions": [
+        1659
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1658,
+      "name": "신학석사(M.T.S.)과정 실천신학(찬양사역)전공 내규",
+      "allVersions": [
+        1658
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1657,
+      "name": "웨슬리신학대학원 계절학기 운영에 관한 내규",
+      "allVersions": [
+        1657
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1656,
+      "name": "연구생에 관한 내규",
+      "allVersions": [
+        516,
+        542,
+        1656
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1655,
+      "name": "외국인 교환학생에 관한 내규",
+      "allVersions": [
+        1655
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1654,
+      "name": "교환학생 학점인정에 관한 내규",
+      "allVersions": [
+        1654
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1652,
+      "name": "외국인학생에 관한 내규",
+      "allVersions": [
+        1652
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1651,
+      "name": "편입학에 관한 내규",
+      "allVersions": [
+        1651
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1650,
+      "name": "재학 조교에 관한 내규",
+      "allVersions": [
+        1650
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1648,
+      "name": "교단위탁생에 관한 내규",
+      "allVersions": [
+        1648
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1645,
+      "name": "생명과학부 졸업논문 내규",
+      "allVersions": [
+        1645
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1643,
+      "name": "사회복지학과 운영 내규",
+      "allVersions": [
+        1643
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1642,
+      "name": "영어학과 졸업논문 내규",
+      "allVersions": [
+        1642
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1641,
+      "name": "스포츠건강관리학과 졸업논문 내규",
+      "allVersions": [
+        1641
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1640,
+      "name": "도시공학과 졸업논문 내규",
+      "allVersions": [
+        1640
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1639,
+      "name": "전기전자공학과 졸업논문 내규",
+      "allVersions": [
+        1639
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1638,
+      "name": "모델 근로 내규",
+      "allVersions": [
+        1638
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1637,
+      "name": "음악교육과 졸업논문 내규",
+      "allVersions": [
+        1637
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1636,
+      "name": "수학교육과 졸업 전 취업자에 관한 내규",
+      "allVersions": [
+        1636
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1635,
+      "name": "애니메이션학과 졸업논문 내규",
+      "allVersions": [
+        1635
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1634,
+      "name": "입체조형학부 졸업논문 내규",
+      "allVersions": [
+        1634
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1633,
+      "name": "미술학부 졸업논문 내규",
+      "allVersions": [
+        1633
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1632,
+      "name": "교원 연구년 제도에 관한 규정",
+      "allVersions": [
+        203,
+        940,
+        1297,
+        1574,
+        1632
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1631,
+      "name": "현장실습 수업(인턴십) 운영 규정",
+      "allVersions": [
+        812,
+        988,
+        1015,
+        1168,
+        1226,
+        1341,
+        1402,
+        1569,
+        1631
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1630,
+      "name": "목원대학교 인권센터 양성평등상담소 운영 규정",
+      "allVersions": [
+        1103,
+        1138,
+        1216,
+        1334,
+        1630
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1629,
+      "name": "목원대학교 인권센터 인권상담소 운영 규정",
+      "allVersions": [
+        1102,
+        1215,
+        1333,
+        1420,
+        1445,
+        1629
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1626,
+      "name": "외국인 유학생 졸업자격 인정에 관한 내규",
+      "allVersions": [
+        1626
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1625,
+      "name": "M-TOPIK 운영 내규",
+      "allVersions": [
+        1625
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1624,
+      "name": "게임콘텐츠학과 졸업논문 내규",
+      "allVersions": [
+        1624
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1623,
+      "name": "웹툰학과 졸업논문 내규",
+      "allVersions": [
+        1623
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1622,
+      "name": "섬유·패션디자인학과 졸업논문 내규",
+      "allVersions": [
+        1622
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1621,
+      "name": "산업디자인학과 졸업논문 내규",
+      "allVersions": [
+        1621
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1620,
+      "name": "국악과 졸업논문 내규",
+      "allVersions": [
+        1620
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1619,
+      "name": "유아교육과 졸업논문 내규",
+      "allVersions": [
+        1619
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1618,
+      "name": "미술교육과 졸업논문 내규",
+      "allVersions": [
+        1618
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1617,
+      "name": "수학교육과 졸업논문 내규",
+      "allVersions": [
+        1617
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1616,
+      "name": "영어교육과 졸업논문 내규",
+      "allVersions": [
+        1616
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1615,
+      "name": "국어교육과 졸업논문 내규",
+      "allVersions": [
+        1615
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1614,
+      "name": "컴퓨터공학과 졸업작품ㆍ논문 시행 내규",
+      "allVersions": [
+        1614
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1613,
+      "name": "건축학(5년제)전공 학사운영 내규",
+      "allVersions": [
+        1613
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1612,
+      "name": "건축학부 졸업논문 내규",
+      "allVersions": [
+        1612
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1611,
+      "name": "소방안전학부 졸업논문 내규",
+      "allVersions": [
+        1611
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1610,
+      "name": "경찰법학과 졸업논문 내규",
+      "allVersions": [
+        1610
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1609,
+      "name": "경찰행정학부 졸업논문 내규",
+      "allVersions": [
+        1609
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1608,
+      "name": "광고홍보커뮤니케이션학부 졸업논문 내규",
+      "allVersions": [
+        1608
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1607,
+      "name": "중국문화ㆍ비즈니스학과 졸업논문 내규",
+      "allVersions": [
+        1607
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1605,
+      "name": "부동산금융보험학과 졸업논문 내규",
+      "allVersions": [
+        1605
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1603,
+      "name": "경영학부 글로벌비지니스전공 졸업논문 내규",
+      "allVersions": [
+        1603
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1602,
+      "name": "경영학부 경영전공 졸업논문 내규",
+      "allVersions": [
+        1602
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1601,
+      "name": "연극영화영상학부 졸업논문 내규",
+      "allVersions": [
+        1601
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1600,
+      "name": "사회복지학과 졸업논문 내규",
+      "allVersions": [
+        1600
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1599,
+      "name": "역사학과 졸업논문 내규",
+      "allVersions": [
+        1599
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1598,
+      "name": "역사학과 고적답사 운영 내규 전부개정",
+      "allVersions": [
+        1598
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1597,
+      "name": "SIG프로그램 학사 운영 규정",
+      "allVersions": [
+        1584,
+        1597
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1596,
+      "name": "대학원 장학금 지급 규정",
+      "allVersions": [
+        494,
+        816,
+        1131,
+        1155,
+        1428,
+        1440,
+        1504,
+        1556,
+        1596
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1595,
+      "name": "U-늘봄센터 운영 규정",
+      "allVersions": [
+        1595
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1593,
+      "name": "선교훈련원 이사회 운영 세칙",
+      "allVersions": [
+        1506,
+        1593
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1592,
+      "name": "신학과 졸업논문 내규",
+      "allVersions": [
+        1592
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1590,
+      "name": "선교훈련원 운영 규정",
+      "allVersions": [
+        359,
+        760,
+        923,
+        1505,
+        1590
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1587,
+      "name": "중앙도서관 운영 규정 시행세칙",
+      "allVersions": [
+        1587
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1586,
+      "name": "웨슬리신학대학원 장학금 지급 규정",
+      "allVersions": [
+        1286,
+        1541,
+        1586
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1583,
+      "name": "목원학술진흥재단 정관",
+      "allVersions": [
+        822,
+        1583
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1581,
+      "name": "외국인 유학생 교육지원 운영위원회 규정",
+      "allVersions": [
+        465,
+        1581
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1578,
+      "name": "특별전임교원의 일반전임교원 전환임용에 관한 규정",
+      "allVersions": [
+        1578
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1577,
+      "name": "여비 규정",
+      "allVersions": [
+        229,
+        1306,
+        1577
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1576,
+      "name": "목원대학교 연구윤리진실성위원회 규정",
+      "allVersions": [
+        1576
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1573,
+      "name": "상담전담교원에 관한 규정",
+      "allVersions": [
+        175,
+        877,
+        1124,
+        1338,
+        1414,
+        1573
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1572,
+      "name": "연구교수 규정",
+      "allVersions": [
+        144,
+        1132,
+        1572
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1571,
+      "name": "웨슬리신학대학원 학위수여에 관한 규정",
+      "allVersions": [
+        1285,
+        1310,
+        1550,
+        1571
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1568,
+      "name": "학생설계전공 운영규정",
+      "allVersions": [
+        1568
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1567,
+      "name": "전공자율선택제 운영규정",
+      "allVersions": [
+        1567
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1566,
+      "name": "규정류 관리 규정",
+      "allVersions": [
+        286,
+        908,
+        1566
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1565,
+      "name": "직원 제안제도 운영 규정",
+      "allVersions": [
+        142,
+        1238,
+        1565
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1561,
+      "name": "원격강좌 운영 규정",
+      "allVersions": [
+        69,
+        682,
+        904,
+        1129,
+        1391,
+        1464,
+        1561
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1555,
+      "name": "계약직원 임용세칙",
+      "allVersions": [
+        153,
+        1555
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1554,
+      "name": "자산관리위원회 운영 규정",
+      "allVersions": [
+        454,
+        683,
+        1255,
+        1554
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1553,
+      "name": "건축위원회 운영 규정",
+      "allVersions": [
+        450,
+        1254,
+        1553
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1547,
+      "name": "산업정보언론대학원 학칙",
+      "allVersions": [
+        557,
+        883,
+        1028,
+        1056,
+        1135,
+        1471,
+        1480,
+        1547
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1544,
+      "name": "대학혁신위원회 규정",
+      "allVersions": [
+        1098,
+        1316,
+        1381,
+        1544
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1543,
+      "name": "RISE사업단 운영규정",
+      "allVersions": [
+        1543
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1539,
+      "name": "산학협력단 연구원 임용 지침",
+      "allVersions": [
+        772,
+        773,
+        1095,
+        1145,
+        1148,
+        1501,
+        1539
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1537,
+      "name": "산학협력단 직원 근무성적 평정 내규",
+      "allVersions": [
+        606,
+        1533,
+        1537
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1536,
+      "name": "유성구 공동체지원센터 운영 규정",
+      "allVersions": [
+        832,
+        1536
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1532,
+      "name": "동물실험윤리위원회 운영 규정",
+      "allVersions": [
+        455,
+        670,
+        960,
+        1020,
+        1269,
+        1434,
+        1523,
+        1532
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1531,
+      "name": "교원 복무 규정",
+      "allVersions": [
+        134,
+        875,
+        944,
+        977,
+        984,
+        1011,
+        1043,
+        1053,
+        1139,
+        1225,
+        1228,
+        1335,
+        1394,
+        1446,
+        1465,
+        1503,
+        1524,
+        1531
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1529,
+      "name": "부전공 이수에 관한 규정",
+      "allVersions": [
+        101,
+        855,
+        1529
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1528,
+      "name": "문서보관ㆍ보존규정",
+      "allVersions": [
+        275,
+        1528
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1527,
+      "name": "기록물 관리 규정",
+      "allVersions": [
+        1527
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1526,
+      "name": "예산회계 규정",
+      "allVersions": [
+        1526
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1525,
+      "name": "검수 규정",
+      "allVersions": [
+        1525
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1522,
+      "name": "연구실 안전관리 규정",
+      "allVersions": [
+        257,
+        1261,
+        1325,
+        1522
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1518,
+      "name": "대학 특성화사업(CK) 관리 운영 규정",
+      "allVersions": [
+        673,
+        1518
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1517,
+      "name": "지역선도대학 육성사업단 운영 규정",
+      "allVersions": [
+        703,
+        1517
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1516,
+      "name": "조교 운영에 관한 규정",
+      "allVersions": [
+        167,
+        1516
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1515,
+      "name": "학생선수 학사관리위원회 규정",
+      "allVersions": [
+        1110,
+        1515
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1513,
+      "name": "SIG 프로그램 학사 운영 규정",
+      "allVersions": [
+        845,
+        882,
+        1075,
+        1113,
+        1481,
+        1489,
+        1513
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1509,
+      "name": "교직과정 운영 시행 규정",
+      "allVersions": [
+        92,
+        680,
+        858,
+        986,
+        1040,
+        1074,
+        1233,
+        1456,
+        1509
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1500,
+      "name": "교외연구비 중앙관리 지침",
+      "allVersions": [
+        741,
+        742,
+        743,
+        744,
+        745,
+        746,
+        747,
+        748,
+        926,
+        1068,
+        1094,
+        1223,
+        1387,
+        1500
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1498,
+      "name": "방재정보통신지역혁신센터 운영 규정",
+      "allVersions": [
+        356,
+        659,
+        1498
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1497,
+      "name": "AI융합교육연구센터 운영 규정",
+      "allVersions": [
+        1497
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1496,
+      "name": "RISE 사업단 운영 규정",
+      "allVersions": [
+        1496
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1493,
+      "name": "개교 70주년 기념사업단 운영 규정",
+      "allVersions": [
+        1401,
+        1493
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1491,
+      "name": "시설물 대여 규정",
+      "allVersions": [
+        1491
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1488,
+      "name": "등록금심의위원회 운영 규정",
+      "allVersions": [
+        65,
+        468,
+        886,
+        1322,
+        1404,
+        1488
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1486,
+      "name": "졸업논문 시행 규정",
+      "allVersions": [
+        98,
+        1486
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1484,
+      "name": "공학교육혁신센터 운영 규정",
+      "allVersions": [
+        352,
+        1484
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1478,
+      "name": "목원대학교 취업 규칙",
+      "allVersions": [
+        970,
+        1157,
+        1478
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1477,
+      "name": "무기계약직 임용 규정",
+      "allVersions": [
+        190,
+        1062,
+        1087,
+        1477
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1476,
+      "name": "직원 인사 규정",
+      "allVersions": [
+        696,
+        933,
+        1064,
+        1085,
+        1163,
+        1367,
+        1451,
+        1459,
+        1476
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1474,
+      "name": "정관 시행세칙",
+      "allVersions": [
+        20,
+        1474
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1472,
+      "name": "직원인사규정 시행세칙",
+      "allVersions": [
+        1084,
+        1156,
+        1369,
+        1472
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1468,
+      "name": "지역융복합연구센터 운영 규정",
+      "allVersions": [
+        1468
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1467,
+      "name": "미디어리터리시융합연구소 운영 규정",
+      "allVersions": [
+        1467
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1460,
+      "name": "학사학위취득 유예 운영 규정",
+      "allVersions": [
+        96,
+        1460
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1453,
+      "name": "바이오ㆍ헬스 ICC 운영 규정",
+      "allVersions": [
+        1453
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1452,
+      "name": "보수 규정",
+      "allVersions": [
+        867,
+        868,
+        1012,
+        1065,
+        1088,
+        1153,
+        1361,
+        1452
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1448,
+      "name": "총장직속부서 규정",
+      "allVersions": [
+        1058,
+        1083,
+        1162,
+        1229,
+        1382,
+        1436,
+        1448
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1444,
+      "name": "물품 구매·용역 및 계약 규정",
+      "allVersions": [
+        817,
+        1160,
+        1287,
+        1444
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1441,
+      "name": "대학원 학위수여에 관한 규정",
+      "allVersions": [
+        1121,
+        1356,
+        1441
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1435,
+      "name": "교원양성위원회 운영 규정",
+      "allVersions": [
+        451,
+        958,
+        1435
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1431,
+      "name": "공학교육 심화프로그램 시행 규정",
+      "allVersions": [
+        104,
+        950,
+        1431
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1427,
+      "name": "생활관 운영세칙",
+      "allVersions": [
+        1427
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1426,
+      "name": "미래창의평생교육원 학점은행제 운영 규정",
+      "allVersions": [
+        388,
+        1426
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1425,
+      "name": "고정형 영상정보처리기기 운영 및 관리 규정",
+      "allVersions": [
+        1425
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1423,
+      "name": "CCTV 설치·운영 규정",
+      "allVersions": [
+        266,
+        1423
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1422,
+      "name": "미래창의평생교육원 운영 세칙",
+      "allVersions": [
+        369,
+        1422
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1421,
+      "name": "미래창의평생교육원 운영 규정",
+      "allVersions": [
+        366,
+        1421
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1419,
+      "name": "생활관 규정",
+      "allVersions": [
+        913,
+        1419
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1416,
+      "name": "산학협력중점교원에 관한 규정",
+      "allVersions": [
+        164,
+        943,
+        978,
+        1114,
+        1416
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1415,
+      "name": "교수학습전담교원에 관한 규정",
+      "allVersions": [
+        165,
+        871,
+        946,
+        1396,
+        1415
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1413,
+      "name": "강의전담교원에 관한 규정",
+      "allVersions": [
+        163,
+        873,
+        945,
+        1413
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1410,
+      "name": "명예퇴직 및 수당 지급에 관한 규정",
+      "allVersions": [
+        162,
+        808,
+        936,
+        1063,
+        1343,
+        1410
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1407,
+      "name": "융ㆍ복합전공 이수에 관한 규정",
+      "allVersions": [
+        1311,
+        1407
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1403,
+      "name": "등록금 운영에 관한 규정",
+      "allVersions": [
+        1403
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1400,
+      "name": "정책회의 규정",
+      "allVersions": [
+        839,
+        1400
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1399,
+      "name": "교육과정위원회 규정",
+      "allVersions": [
+        426,
+        906,
+        1125,
+        1399
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1398,
+      "name": "대학혁신본부 사이버대학 운영 세칙",
+      "allVersions": [
+        1398
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1397,
+      "name": "연구원 운영에 관한 규정",
+      "allVersions": [
+        171,
+        764,
+        1397
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1392,
+      "name": "강의평가 운영 규정",
+      "allVersions": [
+        71,
+        894,
+        1392
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1388,
+      "name": "대학교육개발원 규정",
+      "allVersions": [
+        350,
+        811,
+        902,
+        961,
+        1388
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1386,
+      "name": "대학교육혁신단 운영 규정",
+      "allVersions": [
+        283,
+        862,
+        1008,
+        1099,
+        1386
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1385,
+      "name": "대학혁신총괄사업단 운영 규정",
+      "allVersions": [
+        1100,
+        1385
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1378,
+      "name": "웹툰애니메이션게임 ICC 운영 규정",
+      "allVersions": [
+        1378
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1377,
+      "name": "감성SW·국방혁신 융합 ICC 운영 규정",
+      "allVersions": [
+        1377
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1376,
+      "name": "실감콘텐츠·모빌리티ICT 융합 ICC 운영 규정",
+      "allVersions": [
+        1376
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1373,
+      "name": "외국대학 파견 및 교환학생에 관한 규정",
+      "allVersions": [
+        329,
+        1373
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1372,
+      "name": "단기 해외연수에 관한 규정",
+      "allVersions": [
+        762,
+        888,
+        1372
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1368,
+      "name": "신임교원 임용 규정",
+      "allVersions": [
+        196,
+        1034,
+        1313,
+        1368
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1366,
+      "name": "석좌교수 및 특임교수 규정",
+      "allVersions": [
+        160,
+        1366
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1357,
+      "name": "학생활동 안전관리 규정",
+      "allVersions": [
+        1357
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1355,
+      "name": "공용장비센터 운영 규정",
+      "allVersions": [
+        1194,
+        1355
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1354,
+      "name": "산학협력단 학생연구자 지원 규정",
+      "allVersions": [
+        993,
+        1204,
+        1354
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1350,
+      "name": "산학협력교육센터 운영 규정",
+      "allVersions": [
+        1032,
+        1350
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1349,
+      "name": "공유협업센터 운영 규정",
+      "allVersions": [
+        1349
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1348,
+      "name": "지역혁신리빙랩센터 운영 규정",
+      "allVersions": [
+        1348
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1347,
+      "name": "성과관리센터 운영 규정",
+      "allVersions": [
+        1347
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1346,
+      "name": "산학교육센터 운영 규정",
+      "allVersions": [
+        1346
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1345,
+      "name": "기업협업총괄센터 운영 규정",
+      "allVersions": [
+        1345
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1344,
+      "name": "가족기업종합지원센터 운영 규정",
+      "allVersions": [
+        1344
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1340,
+      "name": "계절학기 운영에 관한 규정",
+      "allVersions": [
+        100,
+        806,
+        973,
+        987,
+        1039,
+        1340
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1339,
+      "name": "전과(부)에 관한 규정",
+      "allVersions": [
+        813,
+        1038,
+        1208,
+        1339
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1337,
+      "name": "직원 근무성적 평정 규정",
+      "allVersions": [
+        139,
+        1337
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1336,
+      "name": "직원 복무 규정",
+      "allVersions": [
+        807,
+        1017,
+        1158,
+        1336
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1331,
+      "name": "미래혁신위원회 공동운영 규정",
+      "allVersions": [
+        1331
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1329,
+      "name": "주제중심통합교육과정 운영 규정",
+      "allVersions": [
+        917,
+        982,
+        1329
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1327,
+      "name": "글로컬대학 사업 공동추진위원회 운영 규정",
+      "allVersions": [
+        1327
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1326,
+      "name": "전화 녹취시스템 운영 규정",
+      "allVersions": [
+        1326
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1323,
+      "name": "예산회계 업무 규정",
+      "allVersions": [
+        213,
+        1007,
+        1271,
+        1323
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1321,
+      "name": "시설공사 규정",
+      "allVersions": [
+        270,
+        825,
+        1151,
+        1281,
+        1321
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1320,
+      "name": "교양학위 운영에 관한 규정",
+      "allVersions": [
+        1320
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1315,
+      "name": "목원대학교 산학협력단 노사협의회 운영규정",
+      "allVersions": [
+        1315
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1312,
+      "name": "특별학점인정제 운영 규정",
+      "allVersions": [
+        895,
+        955,
+        1312
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1308,
+      "name": "계약(연봉제)교수 규정",
+      "allVersions": [
+        117,
+        1308
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1307,
+      "name": "사회봉사지원센터 운영 규정",
+      "allVersions": [
+        303,
+        972,
+        1307
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1304,
+      "name": "내부 감사 규정",
+      "allVersions": [
+        246,
+        1188,
+        1243,
+        1268,
+        1304
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1303,
+      "name": "감 사 규 정",
+      "allVersions": [
+        25,
+        1050,
+        1303
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1302,
+      "name": "직원 징계위원회 규정",
+      "allVersions": [
+        23,
+        934,
+        1302
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1301,
+      "name": "교원징계위원회 규정",
+      "allVersions": [
+        930,
+        1301
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1298,
+      "name": "교무위원회 규정",
+      "allVersions": [
+        836,
+        1009,
+        1211,
+        1298
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1296,
+      "name": "명예교수 규정",
+      "allVersions": [
+        212,
+        878,
+        1061,
+        1212,
+        1296
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1294,
+      "name": "장애학생지원센터 운영 규정",
+      "allVersions": [
+        320,
+        971,
+        1294
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1292,
+      "name": "목원대학교 일학습병행사업단 운영 규정",
+      "allVersions": [
+        1292
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1291,
+      "name": "목원대학교 IPP형 일학습병행제 사업단 운영 규정",
+      "allVersions": [
+        386,
+        1291
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1290,
+      "name": "목원대학교 IPP형 일학습병행 운영 규정",
+      "allVersions": [
+        1290
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1288,
+      "name": "대학정보공시운영 규정",
+      "allVersions": [
+        281,
+        885,
+        1025,
+        1115,
+        1288
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1283,
+      "name": "생활체육관 및 운동장 관리 규정",
+      "allVersions": [
+        247,
+        1244,
+        1283
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1282,
+      "name": "시설 대여 규정",
+      "allVersions": [
+        248,
+        1245,
+        1282
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1280,
+      "name": "시설물 대여 규정 제정(안)",
+      "allVersions": [
+        1280
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1279,
+      "name": "대학일자리플러스본부 운영 규정",
+      "allVersions": [
+        999,
+        1166,
+        1279
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1278,
+      "name": "학 칙",
+      "allVersions": [
+        688,
+        735,
+        770,
+        838,
+        847,
+        879,
+        919,
+        922,
+        929,
+        947,
+        979,
+        995,
+        1013,
+        1035,
+        1048,
+        1082,
+        1133,
+        1143,
+        1217,
+        1235,
+        1278
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1275,
+      "name": "학생상담센터 운영 규정",
+      "allVersions": [
+        1180,
+        1275
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1272,
+      "name": "봄(SIGHT) 인증 운영 규정",
+      "allVersions": [
+        76,
+        763,
+        903,
+        962,
+        1272
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1266,
+      "name": "스톡스대학 학사운영 규정",
+      "allVersions": [
+        94,
+        909,
+        1213,
+        1266
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1264,
+      "name": "대학입시공정관리위원회 운영 규정",
+      "allVersions": [
+        442,
+        865,
+        1264
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1263,
+      "name": "박물관 규정",
+      "allVersions": [
+        394,
+        1263
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1260,
+      "name": "홈페이지 관리 규정",
+      "allVersions": [
+        249,
+        1260
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1258,
+      "name": "차량 관리 규정",
+      "allVersions": [
+        239,
+        1258
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1257,
+      "name": "실험실습 기자재 관리 규정",
+      "allVersions": [
+        237,
+        1257
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1256,
+      "name": "학생 복지시설 운영위원회 규정",
+      "allVersions": [
+        462,
+        1256
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1253,
+      "name": "학생지도위원회 운영에 관한 규정",
+      "allVersions": [
+        445,
+        1253
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1250,
+      "name": "학생준칙",
+      "allVersions": [
+        1250
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1249,
+      "name": "소방안전관리 규정",
+      "allVersions": [
+        1249
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1248,
+      "name": "대학 내 개인형 이동장치 안전관리 규정",
+      "allVersions": [
+        969,
+        1248
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1242,
+      "name": "창고 관리 규정",
+      "allVersions": [
+        238,
+        1242
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1241,
+      "name": "비품 관리 규정",
+      "allVersions": [
+        294,
+        1241
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1240,
+      "name": "불용품 처분 규정",
+      "allVersions": [
+        288,
+        1240
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1220,
+      "name": "현장실습지원센터 운영 규정",
+      "allVersions": [
+        202,
+        1002,
+        1220
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1214,
+      "name": "목원대학교 인권센터 운영 규정",
+      "allVersions": [
+        1101,
+        1152,
+        1177,
+        1214
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1209,
+      "name": "융 ㆍ 복합전공 이수에 관한 규정",
+      "allVersions": [
+        74,
+        1097,
+        1209
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1205,
+      "name": "교목실 규정",
+      "allVersions": [
+        702,
+        1170,
+        1205
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1203,
+      "name": "창업진흥센터 규정",
+      "allVersions": [
+        397,
+        624,
+        1202,
+        1203
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1201,
+      "name": "창업경영교육연구 투고 요령",
+      "allVersions": [
+        1201
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1200,
+      "name": "창업경영교육연구 편집 지침",
+      "allVersions": [
+        1200
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1199,
+      "name": "SW전문인재양성센터 운영 규정",
+      "allVersions": [
+        1118,
+        1199
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1198,
+      "name": "목원대학교 산학협력 가족회사 운영 규정",
+      "allVersions": [
+        596,
+        1198
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1197,
+      "name": "창업경영교육연구소 연구윤리 규정",
+      "allVersions": [
+        1197
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1196,
+      "name": "창업경영교육연구 편집위원회 규정",
+      "allVersions": [
+        1196
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1195,
+      "name": "창업경영교육연구 발행 규정",
+      "allVersions": [
+        1195
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1193,
+      "name": "방위산업연구센터 운영 규정",
+      "allVersions": [
+        1193
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1192,
+      "name": "인사소위원회 운영 규정",
+      "allVersions": [
+        1192
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1189,
+      "name": "목원대학교 연구윤리위원회 규정",
+      "allVersions": [
+        447,
+        1054,
+        1189
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1187,
+      "name": "교원 소속변경에 관한 세칙",
+      "allVersions": [
+        1187
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1186,
+      "name": "학과 구조개편에 따른 교원 소속변경 규정",
+      "allVersions": [
+        192,
+        939,
+        1186
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1185,
+      "name": "강사 인사 규정",
+      "allVersions": [
+        205,
+        941,
+        1185
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1182,
+      "name": "포상 규정",
+      "allVersions": [
+        1182
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1181,
+      "name": "법인기금운용심의회 규정",
+      "allVersions": [
+        1070,
+        1181
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1179,
+      "name": "학생상담관리 규정",
+      "allVersions": [
+        323,
+        896,
+        1010,
+        1041,
+        1179
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1178,
+      "name": "목원대학교 인권센터 학생상담소 운영 규정",
+      "allVersions": [
+        1104,
+        1178
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1176,
+      "name": "기금운용심의회 운영 규정",
+      "allVersions": [
+        771,
+        1046,
+        1052,
+        1176
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1173,
+      "name": "소방안전관리 규정 제정(안)",
+      "allVersions": [
+        1173
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1172,
+      "name": "이단대책위원회 운영에 관한 규정",
+      "allVersions": [
+        470,
+        1172
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1171,
+      "name": "신앙지도위원회 운영에 관한 규정",
+      "allVersions": [
+        444,
+        1171
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1169,
+      "name": "방화 관리 규정",
+      "allVersions": [
+        243,
+        1169
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1161,
+      "name": "창업교육센터 운영 규정",
+      "allVersions": [
+        200,
+        861,
+        1001,
+        1117,
+        1161
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1159,
+      "name": "시간외 근무 규정",
+      "allVersions": [
+        138,
+        1159
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1142,
+      "name": "목원학술진흥재단 장학금 지급 규정",
+      "allVersions": [
+        1142
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1137,
+      "name": "산업정보언론대학원 학위수여에 관한 규정",
+      "allVersions": [
+        1137
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1136,
+      "name": "산업정보언론대학원 학칙시행세칙",
+      "allVersions": [
+        561,
+        1136
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1128,
+      "name": "연계전공교육과정 운영 규정",
+      "allVersions": [
+        95,
+        857,
+        954,
+        1096,
+        1128
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1112,
+      "name": "대학교육개발원 사이버대학 운영 세칙",
+      "allVersions": [
+        1112
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1109,
+      "name": "학생선수 학사관리 규정",
+      "allVersions": [
+        1109
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1108,
+      "name": "재입학 시행관리 규정",
+      "allVersions": [
+        55,
+        1108
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1105,
+      "name": "대학혁신지원사업 운영위원회 규정",
+      "allVersions": [
+        692,
+        1105
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1093,
+      "name": "명예총장에 관한 규정",
+      "allVersions": [
+        1093
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1091,
+      "name": "총장후보자 추천위원회(이하 총추위) 규정",
+      "allVersions": [
+        16,
+        1091
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1089,
+      "name": "직원인사위원회 규정",
+      "allVersions": [
+        449,
+        843,
+        1089
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1051,
+      "name": "학생상담센터 규정",
+      "allVersions": [
+        301,
+        893,
+        1051
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1042,
+      "name": "연구과제 특수관계자 참여 제한에 관한 지침",
+      "allVersions": [
+        1042
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1026,
+      "name": "신학대학원 장학금 지급 규정",
+      "allVersions": [
+        528,
+        681,
+        1026
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1023,
+      "name": "지역상생협력센터 운영 규정",
+      "allVersions": [
+        890,
+        1023
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1019,
+      "name": "목원대학교 지역혁신사업단 운영 규정",
+      "allVersions": [
+        1019
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1018,
+      "name": "홍보위원회 규정",
+      "allVersions": [
+        443,
+        1018
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1016,
+      "name": "직원 해외연수에 관한 규정",
+      "allVersions": [
+        141,
+        1016
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1004,
+      "name": "취업진로센터 운영 규정",
+      "allVersions": [
+        199,
+        860,
+        1004
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1003,
+      "name": "취창업지원단 운영 규정",
+      "allVersions": [
+        198,
+        859,
+        1003
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 1000,
+      "name": "진로지원센터 운영 규정",
+      "allVersions": [
+        1000
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 992,
+      "name": "산학협력단 학생연구원 운영 지침",
+      "allVersions": [
+        889,
+        991,
+        992
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 990,
+      "name": "학위수여에 관한 규정",
+      "allVersions": [
+        511,
+        563,
+        580,
+        698,
+        881,
+        990
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 980,
+      "name": "신학대학원 학칙",
+      "allVersions": [
+        521,
+        699,
+        980
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 975,
+      "name": "전기 안전관리 규정",
+      "allVersions": [
+        975
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 974,
+      "name": "외국인 전임교원에 관한 규정",
+      "allVersions": [
+        115,
+        874,
+        942,
+        974
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 966,
+      "name": "역사문화교류인재양성센터 운영 규정",
+      "allVersions": [
+        966
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 965,
+      "name": "고충 처리 규정",
+      "allVersions": [
+        965
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 963,
+      "name": "교양교육혁신연구센터 운영 규정",
+      "allVersions": [
+        412,
+        907,
+        963
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 959,
+      "name": "학생군사교육단 운영 규정",
+      "allVersions": [
+        305,
+        841,
+        959
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 953,
+      "name": "마이크로디그리 운영 규정",
+      "allVersions": [
+        93,
+        856,
+        953
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 931,
+      "name": "교·직원 징계양정 등에 관한 규칙",
+      "allVersions": [
+        931
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 928,
+      "name": "대학평의원회 운영 규정",
+      "allVersions": [
+        666,
+        928
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 925,
+      "name": "교외연구비 중앙관리 규정",
+      "allVersions": [
+        121,
+        736,
+        737,
+        738,
+        739,
+        740,
+        925
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 924,
+      "name": "선교훈련원 이사회 운영 규정",
+      "allVersions": [
+        924
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 914,
+      "name": "국제교육원 규정",
+      "allVersions": [
+        353,
+        914
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 910,
+      "name": "교양학위 운영에 관한 규정 제정",
+      "allVersions": [
+        910
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 905,
+      "name": "선교유학생 유치위원회 운영 규정",
+      "allVersions": [
+        905
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 900,
+      "name": "위원회 설치 규정",
+      "allVersions": [
+        463,
+        872,
+        900
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 899,
+      "name": "선교조각공원 조성위원회 운영 규정",
+      "allVersions": [
+        899
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 892,
+      "name": "성희롱·성폭력 예방과 처리에 관한 규정",
+      "allVersions": [
+        892
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 887,
+      "name": "국제교류운영위원회 규정",
+      "allVersions": [
+        457,
+        887
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 853,
+      "name": "특별학점 인정제 운영 규정",
+      "allVersions": [
+        853
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 848,
+      "name": "학생상담 관리 규정",
+      "allVersions": [
+        848
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 844,
+      "name": "대덕과학문화센터 매각추진위원회 운영 규정",
+      "allVersions": [
+        844
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 842,
+      "name": "목원대학교 실험실벤처창업지원 규정",
+      "allVersions": [
+        842
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 840,
+      "name": "직원복무 규정",
+      "allVersions": [
+        840
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 837,
+      "name": "실용창의교육센터 운영규정",
+      "allVersions": [
+        837
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 833,
+      "name": "빅데이터협업센터 운영규정",
+      "allVersions": [
+        833
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 831,
+      "name": "사회혁신인재양성센터 운영 규정",
+      "allVersions": [
+        831
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 830,
+      "name": "기업혁신지원센터 운영 규정",
+      "allVersions": [
+        830
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 829,
+      "name": "무주도시재생지원센터 운영 규정",
+      "allVersions": [
+        829
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 828,
+      "name": "목원대학교 산학협력단 취업규칙",
+      "allVersions": [
+        828
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 827,
+      "name": "천연물소재 분석지원센터 운영에 관한 규정",
+      "allVersions": [
+        827
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 823,
+      "name": "장학금 지급 규정",
+      "allVersions": [
+        823
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 818,
+      "name": "물품 구매 및 용역 규정",
+      "allVersions": [
+        290,
+        818
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 815,
+      "name": "다전공에 관한 시행 세칙",
+      "allVersions": [
+        72,
+        815
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 814,
+      "name": "전과(부)에 관한 시행 세칙",
+      "allVersions": [
+        814
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 804,
+      "name": "전공 및 복수전공에 관한 시행세칙",
+      "allVersions": [
+        804
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 803,
+      "name": "교육대학원 학칙",
+      "allVersions": [
+        803
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 787,
+      "name": "목원참여·소통위원회 설치 및 운영에 관한 규정",
+      "allVersions": [
+        787
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 783,
+      "name": "산학협력 분야별 우수 교직원 포상에 관한 지침",
+      "allVersions": [
+        783
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 782,
+      "name": "산학협력 혁신위원회 규정",
+      "allVersions": [
+        782
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 781,
+      "name": "산학협력단 연구개발능률성과급 지급 지침",
+      "allVersions": [
+        779,
+        780,
+        781
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 778,
+      "name": "학과평가 시행세칙",
+      "allVersions": [
+        693,
+        778
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 777,
+      "name": "교원 업적평가 규정",
+      "allVersions": [
+        159,
+        777
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 776,
+      "name": "창업경영교육연구소 규정",
+      "allVersions": [
+        632,
+        776
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 775,
+      "name": "지식재산권 규정",
+      "allVersions": [
+        751,
+        752,
+        753,
+        754,
+        755,
+        775
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 774,
+      "name": "국제교육원 학사 운영 세칙",
+      "allVersions": [
+        339,
+        774
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 769,
+      "name": "신학대학원 학칙시행세칙",
+      "allVersions": [
+        534,
+        769
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 768,
+      "name": "산학협력단 직원 인사 규정",
+      "allVersions": [
+        765,
+        766,
+        767,
+        768
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 759,
+      "name": "학생역량강화 지원 규정(안)",
+      "allVersions": [
+        759
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 750,
+      "name": "지적재산권 규정",
+      "allVersions": [
+        749,
+        750
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 728,
+      "name": "목원대학교 산학협력단 내부감사규정",
+      "allVersions": [
+        727,
+        728
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 705,
+      "name": "산학협력단 기금운영세칙",
+      "allVersions": [
+        704,
+        705
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 697,
+      "name": "대 학 원 학 칙",
+      "allVersions": [
+        489,
+        697
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 695,
+      "name": "학칙 시행 세칙",
+      "allVersions": [
+        51,
+        686,
+        695
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 694,
+      "name": "학과평가에 관한 규정",
+      "allVersions": [
+        694
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 691,
+      "name": "총장 직속 부서 규정",
+      "allVersions": [
+        691
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 684,
+      "name": "장 학 규 정",
+      "allVersions": [
+        318,
+        565,
+        586,
+        684
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 676,
+      "name": "직 원 복 무 규 정",
+      "allVersions": [
+        676
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 671,
+      "name": "미생물생태자원연구소 운영에 관한 규정",
+      "allVersions": [
+        401,
+        671
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 663,
+      "name": "목원아트스쿨 운영 규정",
+      "allVersions": [
+        663
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 662,
+      "name": "전통시장 고도화센터 운영 규정",
+      "allVersions": [
+        662
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 661,
+      "name": "역사·문화·관광 전문인력 양성센터 운영 규정",
+      "allVersions": [
+        661
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 660,
+      "name": "향토자원개발센터 운영 규정",
+      "allVersions": [
+        660
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 658,
+      "name": "중소기업산학협력센터 운영 규정",
+      "allVersions": [
+        658
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 656,
+      "name": "디지털영상콘텐츠교육ㆍ연구센터 운영 규정",
+      "allVersions": [
+        342,
+        656
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 655,
+      "name": "대전광역시 서구 청년창업지원센터 규정",
+      "allVersions": [
+        655
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 654,
+      "name": "풀뿌리기업육성사업단 운영규정",
+      "allVersions": [
+        654
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 653,
+      "name": "현장실습지원센터 운영규정",
+      "allVersions": [
+        653
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 650,
+      "name": "지식재산교육선도대학 사업비 집행 지침",
+      "allVersions": [
+        650
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 649,
+      "name": "지식재산교육선도대학사업단 운영 규정",
+      "allVersions": [
+        649
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 647,
+      "name": "사물지능 연구ㆍ교육센터 규정",
+      "allVersions": [
+        647
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 646,
+      "name": "목원대학교 산ㆍ학ㆍ연 공동기술개발 지역 컨소시엄(IARC) 운영규정",
+      "allVersions": [
+        254,
+        646
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 645,
+      "name": "기술이전 ㆍ 사업화센터 규정",
+      "allVersions": [
+        645
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 644,
+      "name": "지역특화산업지원단 운영 규정",
+      "allVersions": [
+        644
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 643,
+      "name": "부동산연구교육센터 운영 규정",
+      "allVersions": [
+        643
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 642,
+      "name": "한ㆍ호주 통상전략센터 운영규정",
+      "allVersions": [
+        642
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 641,
+      "name": "국제환경관측센터 규정",
+      "allVersions": [
+        641
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 640,
+      "name": "미생물생태자원연구센터 운영에 관한 규정",
+      "allVersions": [
+        640
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 639,
+      "name": "학교기업 융합디자인센터 운영 규정",
+      "allVersions": [
+        639
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 638,
+      "name": "목원문화예술교육지원센터 운영 규정",
+      "allVersions": [
+        638
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 637,
+      "name": "학교기업 엠바이오 운영 세칙",
+      "allVersions": [
+        637
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 636,
+      "name": "학교기업 엠바이오 운영 규정",
+      "allVersions": [
+        636
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 635,
+      "name": "중소기업 기술지도대학(TRITAS) 운영 규정",
+      "allVersions": [
+        635
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 634,
+      "name": "우수벤처기업 발굴ㆍ육성 운영세칙",
+      "allVersions": [
+        634
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 633,
+      "name": "공동보육실 관리운영세칙",
+      "allVersions": [
+        633
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 631,
+      "name": "창업지원본부 규정",
+      "allVersions": [
+        631
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 629,
+      "name": "앱특화창업보육센터 운영 규정",
+      "allVersions": [
+        629
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 628,
+      "name": "창업지원센터 규정",
+      "allVersions": [
+        628
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 627,
+      "name": "창업진흥센터 운영 규정",
+      "allVersions": [
+        398,
+        627
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 623,
+      "name": "국가연구개발 사업 보안관리 규정",
+      "allVersions": [
+        258,
+        623
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 607,
+      "name": "목원대학교 산학협력단 대응자금 투자 관리 및 집행 지침",
+      "allVersions": [
+        607
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 600,
+      "name": "목원대학교 산학협력단 산업자문 운영 규정",
+      "allVersions": [
+        600
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 597,
+      "name": "학교기업 설치ㆍ운영 규정",
+      "allVersions": [
+        597
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 591,
+      "name": "연구노트 관리 규정",
+      "allVersions": [
+        263,
+        591
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 590,
+      "name": "산학협력단 법인정관",
+      "allVersions": [
+        590
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 584,
+      "name": "학위논문에 관한 규정",
+      "allVersions": [
+        584
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 582,
+      "name": "지도교수에 관한 규정",
+      "allVersions": [
+        524,
+        568,
+        582
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 581,
+      "name": "종합시험 시행에 관한 규정",
+      "allVersions": [
+        581
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 576,
+      "name": "입학전형 시행 내규",
+      "allVersions": [
+        512,
+        538,
+        576
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 575,
+      "name": "학위수여에 관한 내규",
+      "allVersions": [
+        575
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 574,
+      "name": "외국어 및 종합시험에 관한 내규",
+      "allVersions": [
+        574
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 572,
+      "name": "문화예술원 운영 규정",
+      "allVersions": [
+        572
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 570,
+      "name": "산업정보언론대학원 외국인 유학생 특별과정 학사운영 규정",
+      "allVersions": [
+        570
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 566,
+      "name": "종합시험 및 학위취득시험 시행에 관한 내규",
+      "allVersions": [
+        566
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 543,
+      "name": "선수과목에 관한 내규",
+      "allVersions": [
+        517,
+        543
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 541,
+      "name": "외국인 학생에 관한 내규",
+      "allVersions": [
+        515,
+        541
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 539,
+      "name": "종합시험 및 외국어시험 시행에 관한 내규",
+      "allVersions": [
+        539
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 537,
+      "name": "신학대학원 학위수여에 관한 규정",
+      "allVersions": [
+        537
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 522,
+      "name": "학위논문에 관한 내규",
+      "allVersions": [
+        490,
+        522
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 502,
+      "name": "대학원 학사에 관한 내규",
+      "allVersions": [
+        502
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 501,
+      "name": "SIG프로그램 학사운영 규정",
+      "allVersions": [
+        501
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 499,
+      "name": "일반대학원 SIG프로그램 학사 운영 규정",
+      "allVersions": [
+        499
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 498,
+      "name": "일반대학원 외국인 유학생 특별과정 학사운영 규정",
+      "allVersions": [
+        498
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 491,
+      "name": "최고경영자 과정 운영 규정",
+      "allVersions": [
+        491
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 479,
+      "name": "기자재 공동관리 위원회 운영 시행세칙",
+      "allVersions": [
+        479
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 478,
+      "name": "기자재 공동관리 위원회 규정",
+      "allVersions": [
+        478
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 477,
+      "name": "선교유학생 유치위원회 운영 규정 제정(안)",
+      "allVersions": [
+        477
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 476,
+      "name": "대학혁신지원사업운영위원회 규정",
+      "allVersions": [
+        476
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 475,
+      "name": "목원대학교 학위검증위원회 규정",
+      "allVersions": [
+        475
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 474,
+      "name": "목원대학교 중·장기발전계획 위원회 운영 규정",
+      "allVersions": [
+        474
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 473,
+      "name": "체육특기자 학사관리위원회 규정",
+      "allVersions": [
+        473
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 471,
+      "name": "융ㆍ복합학부 운영위원회 규정",
+      "allVersions": [
+        471
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 469,
+      "name": "대학발전자문위원회 규정",
+      "allVersions": [
+        469
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 466,
+      "name": "선행학습 영향평가위원회 규정",
+      "allVersions": [
+        466
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 461,
+      "name": "입학사정관제 운영위원회 규정",
+      "allVersions": [
+        461
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 460,
+      "name": "학과 구조개편위원회 운영 규정",
+      "allVersions": [
+        460
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 458,
+      "name": "그린캠퍼스위원회 운영 규정",
+      "allVersions": [
+        458
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 453,
+      "name": "대학지속성장위원회 운영 규정",
+      "allVersions": [
+        453
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 452,
+      "name": "NEW MOKWON 2020 위원회 운영 규정",
+      "allVersions": [
+        452
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 448,
+      "name": "특성화위원회 운영 규정",
+      "allVersions": [
+        448
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 446,
+      "name": "공간조정위원회 운영 규정(폐지)",
+      "allVersions": [
+        446
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 441,
+      "name": "입시제도연구소위원회 규정",
+      "allVersions": [
+        441
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 440,
+      "name": "입학전형관리위원회 규정",
+      "allVersions": [
+        440
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 438,
+      "name": "IT공학 특성화 위원회 규정",
+      "allVersions": [
+        438
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 435,
+      "name": "산학교육연구위원회 규정",
+      "allVersions": [
+        435
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 434,
+      "name": "교육개혁점검위원회 규정",
+      "allVersions": [
+        434
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 433,
+      "name": "성폭력예방대책위원회규정",
+      "allVersions": [
+        433
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 432,
+      "name": "중소기업기술지도대학(TRITAS)운영규정",
+      "allVersions": [
+        432
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 431,
+      "name": "대학정보화위원회 규정",
+      "allVersions": [
+        431
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 430,
+      "name": "예산ㆍ결산자문위원회 규정(폐지)",
+      "allVersions": [
+        430
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 429,
+      "name": "예산ㆍ결산자문위원회 규정",
+      "allVersions": [
+        429
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 428,
+      "name": "목원대학교 복지위원회 규정",
+      "allVersions": [
+        428
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 427,
+      "name": "교육개혁위원회 규정",
+      "allVersions": [
+        427
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 423,
+      "name": "교 무 위 원 회 규 정",
+      "allVersions": [
+        423
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 419,
+      "name": "생체ㆍ환경과학기술연구센터 규정",
+      "allVersions": [
+        419
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 418,
+      "name": "부설연구소 설립 및 운영에 관한 규정",
+      "allVersions": [
+        418
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 416,
+      "name": "테크노과학연구소 규정",
+      "allVersions": [
+        416
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 414,
+      "name": "조형예술연구소 규정",
+      "allVersions": [
+        414
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 413,
+      "name": "영유아교육지원센터 운영 규정",
+      "allVersions": [
+        413
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 410,
+      "name": "사회과학연구소 규정",
+      "allVersions": [
+        410
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 409,
+      "name": "국제 지구환경 감시 연구센터 규정",
+      "allVersions": [
+        409
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 408,
+      "name": "교과교육연구소 운영 규정",
+      "allVersions": [
+        408
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 407,
+      "name": "공공미술연구소 운영 규정",
+      "allVersions": [
+        407
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 406,
+      "name": "다문화사회 통합 연구ㆍ교육센터 운영 규정",
+      "allVersions": [
+        406
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 405,
+      "name": "미래목회연구소 운영에 관한 규정",
+      "allVersions": [
+        405
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 404,
+      "name": "음악연구소 운영에 관한 규정",
+      "allVersions": [
+        404
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 403,
+      "name": "바이오리플라연구소 규정",
+      "allVersions": [
+        403
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 400,
+      "name": "IT공학 연구소 규정",
+      "allVersions": [
+        400
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 399,
+      "name": "건축ㆍ도시연구 센터 규정",
+      "allVersions": [
+        399
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 396,
+      "name": "특성화 사업단 운영 규정",
+      "allVersions": [
+        396
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 395,
+      "name": "생 활 관 규 정",
+      "allVersions": [
+        395
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 392,
+      "name": "학점은행제 유사전공심의위원회 운영 규정",
+      "allVersions": [
+        392
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 391,
+      "name": "한국감리교역사관 운영 세칙",
+      "allVersions": [
+        391
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 381,
+      "name": "지식재산교육 선도대학 사업단 운영 규정",
+      "allVersions": [
+        381
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 378,
+      "name": "평생교육원 규정",
+      "allVersions": [
+        378
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 377,
+      "name": "대학자율역량강화지원사업단 운영 규정",
+      "allVersions": [
+        377
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 371,
+      "name": "계룡대 평생교육센터 운영 세칙",
+      "allVersions": [
+        371
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 370,
+      "name": "미래창의교육원 학점은행제 시행세칙",
+      "allVersions": [
+        370
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 360,
+      "name": "목회교육원 운영 규정",
+      "allVersions": [
+        360
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 358,
+      "name": "평생교육원 강사임용에 관한 내규",
+      "allVersions": [
+        358
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 357,
+      "name": "대학교육개발원 사이버대학 운영세칙",
+      "allVersions": [
+        357
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 355,
+      "name": "출 판 부 규 정",
+      "allVersions": [
+        355
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 354,
+      "name": "국제교육원 분원 운영 규정",
+      "allVersions": [
+        354
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 351,
+      "name": "대전영상아카데미 운영에 관한 규정",
+      "allVersions": [
+        351
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 341,
+      "name": "목원대학교 산학협력단 운영규정",
+      "allVersions": [
+        341
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 340,
+      "name": "평생교육원 운영 세칙",
+      "allVersions": [
+        340
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 336,
+      "name": "목원대학교 고시원 운영세칙",
+      "allVersions": [
+        336
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 335,
+      "name": "목원대학교 고시원 규정",
+      "allVersions": [
+        335
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 334,
+      "name": "보건진료소 규정",
+      "allVersions": [
+        334
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 332,
+      "name": "외국인 교환학생에 관한 규정",
+      "allVersions": [
+        332
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 330,
+      "name": "단기 해외연수(어학, 문화연수 및 인턴체험연수)에 관한 규정",
+      "allVersions": [
+        330
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 326,
+      "name": "장학금 지급 세부 규정",
+      "allVersions": [
+        326
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 322,
+      "name": "학생 평가ㆍ관찰 규정",
+      "allVersions": [
+        322
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 306,
+      "name": "외국대학 복수(공동)학위과정 운영 규정",
+      "allVersions": [
+        306
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 304,
+      "name": "목원 사회봉사단 운영규정",
+      "allVersions": [
+        304
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 302,
+      "name": "취업경력개발센터 운영 규정",
+      "allVersions": [
+        302
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 300,
+      "name": "체육특기자 학사관리 규정",
+      "allVersions": [
+        300
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 297,
+      "name": "목원대학교 홍보사절단 운영 규정",
+      "allVersions": [
+        297
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 296,
+      "name": "외국인유학생 교육지원에 관한 규정",
+      "allVersions": [
+        296
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 295,
+      "name": "학 생 준 칙",
+      "allVersions": [
+        295
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 289,
+      "name": "물 품 구 매 규 정",
+      "allVersions": [
+        289
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 287,
+      "name": "검 수 규 정",
+      "allVersions": [
+        287
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 284,
+      "name": "SW창의교육센터 규정",
+      "allVersions": [
+        284
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 280,
+      "name": "비교과총괄센터 운영 규정",
+      "allVersions": [
+        280
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 279,
+      "name": "열린교육혁신사업단 운영 규정",
+      "allVersions": [
+        279
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 276,
+      "name": "폐기물 관리 규정",
+      "allVersions": [
+        276
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 268,
+      "name": "성희롱 예방과 처리에 관한 규정",
+      "allVersions": [
+        268
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 264,
+      "name": "성폭력예방 및 처리에 관한 규정(폐지)",
+      "allVersions": [
+        264
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 262,
+      "name": "방사선 작업종사자에 대한 보상기준 규정",
+      "allVersions": [
+        262
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 261,
+      "name": "문 서 규 정",
+      "allVersions": [
+        261
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 260,
+      "name": "방사선 안전관리 규정",
+      "allVersions": [
+        260
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 256,
+      "name": "실험ㆍ실습실 안전관리규정",
+      "allVersions": [
+        256
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 255,
+      "name": "전 자 문 서 규 정",
+      "allVersions": [
+        255
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 253,
+      "name": "학술정보처 운영 규정(폐지)",
+      "allVersions": [
+        253
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 252,
+      "name": "교수연구실 관리 규정",
+      "allVersions": [
+        252
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 251,
+      "name": "벤처창업 지원에 관한 규정",
+      "allVersions": [
+        251
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 244,
+      "name": "직인 사용 규정",
+      "allVersions": [
+        244
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 227,
+      "name": "업무추진비 지급 규정",
+      "allVersions": [
+        227
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 226,
+      "name": "국외여비 규정",
+      "allVersions": [
+        226
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 225,
+      "name": "국내여비 규정",
+      "allVersions": [
+        225
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 223,
+      "name": "강사료 지급 규정",
+      "allVersions": [
+        223
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 222,
+      "name": "연구기금 관리 규정",
+      "allVersions": [
+        222
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 221,
+      "name": "교내 연구비 지급 규정",
+      "allVersions": [
+        221
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 219,
+      "name": "보 수 규 정",
+      "allVersions": [
+        219
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 215,
+      "name": "목원대학교 기부금 관리규정",
+      "allVersions": [
+        215
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 210,
+      "name": "국내 교류교수 규정",
+      "allVersions": [
+        210
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 206,
+      "name": "특임부총장에 관한 규정",
+      "allVersions": [
+        206
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 193,
+      "name": "교원 국내외 연구출장에 관한 규정",
+      "allVersions": [
+        193
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 189,
+      "name": "직원 교육훈련관리 규정",
+      "allVersions": [
+        189
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 188,
+      "name": "강의전담 특임교원에 관한 규정",
+      "allVersions": [
+        188
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 187,
+      "name": "입학사정관제 운영 규정",
+      "allVersions": [
+        187
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 186,
+      "name": "학과 평가 시행세칙",
+      "allVersions": [
+        186
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 185,
+      "name": "학과 평가에 관한 규정",
+      "allVersions": [
+        185
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 184,
+      "name": "입학사정관제 운영 세칙",
+      "allVersions": [
+        184
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 183,
+      "name": "교양교육원 규정",
+      "allVersions": [
+        183
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 181,
+      "name": "인력개발원 운영 규정",
+      "allVersions": [
+        181
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 179,
+      "name": "교원 외국여행에 관한 규정",
+      "allVersions": [
+        179
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 178,
+      "name": "신임교원 임용 내규",
+      "allVersions": [
+        178
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 172,
+      "name": "학과(부) 운영 규정",
+      "allVersions": [
+        172
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 168,
+      "name": "조교 및 인턴계약직원 운영에 관한 규정(전부개정 안)",
+      "allVersions": [
+        168
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 143,
+      "name": "노사협의회 규정",
+      "allVersions": [
+        143
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 140,
+      "name": "당직근무 규정(폐지)",
+      "allVersions": [
+        140
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 128,
+      "name": "직원인사 규정 시행세칙",
+      "allVersions": [
+        128
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 127,
+      "name": "직 원 인 사 규 정",
+      "allVersions": [
+        127
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 123,
+      "name": "시간 강사 채용 및 복무 규정",
+      "allVersions": [
+        123
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 120,
+      "name": "정년보장 교원임용 심사위원회 규정",
+      "allVersions": [
+        120
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 119,
+      "name": "교환 및 객원교수 규정",
+      "allVersions": [
+        119
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 118,
+      "name": "겸 임 교 원 규 정",
+      "allVersions": [
+        118
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 116,
+      "name": "외국인 교원 임용 및 보수에 관한 규정",
+      "allVersions": [
+        116
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 113,
+      "name": "초빙교수 및 대우교수 규정",
+      "allVersions": [
+        113
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 105,
+      "name": "현장실습수업(인턴쉽) 운영 규정",
+      "allVersions": [
+        105
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 103,
+      "name": "심화·보충 학습 과정 운영 규정",
+      "allVersions": [
+        103
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 102,
+      "name": "평생교육과정 운영 규정",
+      "allVersions": [
+        102
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 97,
+      "name": "교수-자녀 간 수강신청 및 성적평가에 관한 규정",
+      "allVersions": [
+        97
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 88,
+      "name": "고교-대학 연계 심화과정 운영 규정",
+      "allVersions": [
+        88
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 86,
+      "name": "목원대학교 IPP형 일학습병행제 운영 규정",
+      "allVersions": [
+        86
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 82,
+      "name": "융 ㆍ 복합전공 이수에 관한 시행 세칙",
+      "allVersions": [
+        82
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 64,
+      "name": "입학금 및 등록금 운영에 관한 규정",
+      "allVersions": [
+        64
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 61,
+      "name": "수 강 신 청 규 정",
+      "allVersions": [
+        61
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 57,
+      "name": "목원대학교 명예졸업 규정",
+      "allVersions": [
+        57
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 54,
+      "name": "특례 재입학 규정",
+      "allVersions": [
+        54
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 28,
+      "name": "목원학술상 시상에 관한 규정",
+      "allVersions": [
+        28
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 27,
+      "name": "포 상 규 정",
+      "allVersions": [
+        27
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 26,
+      "name": "인사소위원회 운영 내규",
+      "allVersions": [
+        26
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 24,
+      "name": "직원 재심위원회 규정",
+      "allVersions": [
+        24
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 22,
+      "name": "교원 징계위원회 규정",
+      "allVersions": [
+        22
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 15,
+      "name": "학교법인 감리교학원 정상화추진위원회 운영 규정",
+      "allVersions": [
+        15
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 14,
+      "name": "교 ㆍ 직원 징계양정 등에 관한 규칙",
+      "allVersions": [
+        14
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 13,
+      "name": "총장후보자 선출준비위원회 운영세칙",
+      "allVersions": [
+        13
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 12,
+      "name": "총장후보자선출준비위원회(이하 총선위) 규정",
+      "allVersions": [
+        12
+      ],
+      "isLatest": true
+    },
+    {
+      "id": 11,
+      "name": "발전기금조성위원회 규약",
+      "allVersions": [
+        11
+      ],
+      "isLatest": true
+    }
+  ]
+}
