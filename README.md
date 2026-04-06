@@ -46,7 +46,7 @@
 {
   "mcpServers": {
     "korean-regulation": {
-      "url": "https://korean-regulation-mcp.clayop.workers.dev/mcp"
+      "url": "https://korean-university-regulation-mcp.clayop.workers.dev/mcp"
     }
   }
 }
@@ -62,13 +62,13 @@ claude mcp add korean-regulation -- npx -y korean-university-regulation-mcp
 
 1. Settings > MCP Servers (or Integrations)
 2. "Add MCP Server" 클릭
-3. URL 입력: `https://korean-regulation-mcp.clayop.workers.dev/mcp`
+3. URL 입력: `https://korean-university-regulation-mcp.clayop.workers.dev/mcp`
 
 ### ChatGPT
 
 1. Settings > MCP (또는 Connectors/Tools)
 2. "Add MCP Server" 선택
-3. URL 입력: `https://korean-regulation-mcp.clayop.workers.dev/mcp`
+3. URL 입력: `https://korean-university-regulation-mcp.clayop.workers.dev/mcp`
 
 ### Cursor / Windsurf 등 IDE
 
